@@ -1,0 +1,11 @@
+HS14001|Nguyen Van A|8.5|Hanoi
+HE15002|Tran Thi B|8.0|HCM
+SE62001|Tran Nhu Nhong|7.5|Da Nang
+SE54001|Thich Thi Thieu|7.0|HaNoi
+SB2002|Bui Nhu Lac|6.5|Lao Cai
+HE140178|Luu Viet Ha|6.0|Hanoi
+HE140178|Luu Viet Ha|6.0|Hanoi
+HE140178|Luu Viet Ha|6.0|Hanoi
+HE140178|Luu Viet Ha|6.0|Hanoi
+HE140178|Luu Viet Ha|6.0|Hanoi
+HE140178|Luu Viet Ha|6.0|Hanoi

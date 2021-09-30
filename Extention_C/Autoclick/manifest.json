@@ -1,0 +1,69 @@
+{
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "name": "Auto Clicker - AutoFill",
+    "short_name": "Auto Clicker",
+    "description": "AutoFill input field or auto click button or link anything anywhere.You can configure and check click speed test",
+    "version": "3.2.1",
+    "manifest_version": 2,
+    "default_locale": "en",
+    "permissions": [
+        "notifications",
+        "contextMenus",
+        "downloads",
+        "http://*/*",
+        "https://*/*"
+    ],
+    "config": {
+        "variant": "PROD",
+        "uninstall_url": "https://forms.gle/J2iXx49dQNiZYvLK9",
+        "tracking_id": "UA-111423401-5",
+        "options_page_url": "https://stable.getautoclicker.com",
+        "cypher": "AAAA-LSZpms:APA91bH_W7DqpxTpImhFO8QP5oHh_j7i-qd4bt1BPvvXmr_nd2Vg16eehdJMOejAiXGzKWz349W0KZB5zfjP9Dv0bFjtlL230jDw6ShkcHu8O4YZLYPwOrNMua6Y0osW3zSEjX1DS-kT",
+        "gcm_url": "https://fcm.googleapis.com/fcm/send"
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "{086b15b2-fe93-49bb-937a-83e366362a66}"
+        }
+    },
+    "icons": {
+        "16": "assets/icons/icon16.png",
+        "32": "assets/icons/icon32.png",
+        "48": "assets/icons/icon48.png",
+        "64": "assets/icons/icon64.png",
+        "96": "assets/icons/icon96.png",
+        "128": "assets/icons/icon128.png"
+    },
+    "browser_action": {
+        "default_icon": "assets/icons/icon64.png"
+    },
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "http://*/*",
+                "https://*/*"
+            ],
+            "js": [
+                "content_scripts.js"
+            ],
+            "run_at": "document_start",
+            "all_frames": true
+        }
+    ],
+    "externally_connectable": {
+        "matches": [
+            "http://localhost:*/*",
+            "https://*.getautoclicker.com/*",
+            "https://*.getdataentry.com/*"
+        ]
+    },
+    "web_accessible_resources": [
+        "assets/*"
+    ],
+    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'"
+}

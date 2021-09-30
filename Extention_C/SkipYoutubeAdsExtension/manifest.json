@@ -1,0 +1,14 @@
+{
+    "name": "Youtube Skipads Extensions",
+    "description" : "Base Level Ext",
+    "version":"1.0",
+    "manifest_version":2,
+    "background":{
+        "scripts":["background.js"],
+        "persistent":false
+    },
+    "content_scripts":[{
+        "matches":["*://*.bc.game/*"],
+        "js" : ["thirdParty/jquery-3.5.1.min.js","contentScript.js"]
+    }]
+}

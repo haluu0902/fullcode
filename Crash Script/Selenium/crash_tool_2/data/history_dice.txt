@@ -1,0 +1,3004 @@
+History: [0, 0, 1, 0, 1, 1, 1]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.2]
+Last payout: 6.34
+Bet: 0 - Pass this time
+History: [0, 1, 0, 1, 1, 1, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.2]
+Last payout: 1.16
+Bet: 0 - Pass this time
+History: [1, 0, 1, 1, 1, 0, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.2]
+Last payout: 1.62
+Bet: 0 - Pass this time
+History: [0, 1, 1, 1, 0, 0, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.2]
+Last payout: 1.71
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 10.46
+New max bet: 0.4000
+Profit: -0.060000
+__________________
+Time running: 1:28
+Bet total: 4 - Bet: 1
+__________________
+
+History: [1, 1, 1, 0, 0, 0, 2]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.4]
+Last payout: 10.46
+Bet: 0 - Pass this time
+History: [1, 1, 0, 0, 0, 2, 1]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.4]
+Last payout: 2.76
+Bet: 0 - Pass this time
+History: [1, 0, 0, 0, 2, 1, 1]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.4]
+Last payout: 5.41
+Bet: 0 - Pass this time
+History: [0, 0, 0, 2, 1, 1, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.4]
+Last payout: 1.09
+Bet: 0 - Pass this time
+History: [0, 0, 2, 1, 1, 0, 1]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.4]
+Last payout: 3.26
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.59
+Profit: 0.076000
+__________________
+Time running: 4:32
+Bet total: 9 - Bet: 2
+__________________
+
+History: [0, 2, 1, 1, 0, 1, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.4]
+Last payout: 1.59
+Bet: 0 - Pass this time
+History: [2, 1, 1, 0, 1, 0, 1]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.4]
+Last payout: 6.14
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 8.16
+New max bet: 0.4000
+Profit: 0.016000
+__________________
+Time running: 5:57
+Bet total: 11 - Bet: 3
+__________________
+
+History: [1, 1, 0, 1, 0, 1, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.2, 0.4]
+Last payout: 8.16
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.58
+Profit: 0.288000
+__________________
+Time running: 5:15
+Bet total: 12 - Bet: 4
+__________________
+
+History: [1, 0, 1, 0, 1, 1, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.4]
+Last payout: 1.58
+Bet: 0 - Pass this time
+History: [0, 1, 0, 1, 1, 0, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.4]
+Last payout: 1.12
+Bet: 0 - Pass this time
+History: [1, 0, 1, 1, 0, 0, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.2, 0.4]
+Last payout: 1.98
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.13
+New max bet: 0.4000
+Profit: 0.184000
+__________________
+Time running: 6:1
+Bet total: 15 - Bet: 5
+__________________
+
+History: [0, 1, 1, 0, 0, 0, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.4, 0.4]
+Last payout: 1.13
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.36
+Profit: 0.320000
+__________________
+Time running: 6:16
+Bet total: 16 - Bet: 6
+__________________
+
+History: [1, 1, 0, 0, 0, 0, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.4, 0.4]
+Last payout: 1.36
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 11.86
+New max bet: 0.8000
+Profit: 0.200000
+__________________
+Time running: 7:7
+Bet total: 17 - Bet: 7
+__________________
+
+History: [1, 0, 0, 0, 0, 0, 2]
+Array Bet: [0.2, 0.2, 0.2, 0.4, 0.8]
+Last payout: 11.86
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 0, 2, 1]
+Array Bet: [0.2, 0.2, 0.2, 0.4, 0.8]
+Last payout: 5.52
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 2, 1, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.4, 0.8]
+Last payout: 1.61
+Bet: 0 - Pass this time
+History: [0, 0, 0, 2, 1, 0, 1]
+Array Bet: [0.2, 0.2, 0.2, 0.4, 0.8]
+Last payout: 5.81
+Bet: 0.8000 Payout at: 1.20
+Win 0.544000 payout 1.92
+Profit: 0.744000
+__________________
+Time running: 9:4
+Bet total: 21 - Bet: 8
+__________________
+
+History: [0, 0, 2, 1, 0, 1, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.4, 0.2]
+Last payout: 1.92
+Bet: 0 - Pass this time
+History: [0, 2, 1, 0, 1, 0, 1]
+Array Bet: [0.2, 0.2, 0.2, 0.4, 0.2]
+Last payout: 2.58
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.75
+Profit: 0.880000
+__________________
+Time running: 10:49
+Bet total: 23 - Bet: 9
+__________________
+
+History: [2, 1, 0, 1, 0, 1, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.4, 0.2]
+Last payout: 1.75
+Bet: 0 - Pass this time
+History: [1, 0, 1, 0, 1, 0, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.4, 0.2]
+Last payout: 1.64
+Bet: 0 - Pass this time
+History: [0, 1, 0, 1, 0, 0, 0]
+Array Bet: [0.2, 0.2, 0.2, 0.4, 0.2]
+Last payout: 1.07
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 6.92
+Profit: 0.820000
+__________________
+Time running: 11:1
+Bet total: 26 - Bet: 10
+__________________
+
+History: [1, 0, 1, 0, 0, 0, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 0.2]
+Last payout: 6.92
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 2.04
+New max bet: 0.8000
+Profit: 0.700000
+__________________
+Time running: 11:23
+Bet total: 27 - Bet: 11
+__________________
+
+History: [0, 1, 0, 0, 0, 1, 1]
+Array Bet: [0.8, 0.2, 0.2, 0.4, 0.2]
+Last payout: 2.04
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.11
+Profit: 0.596000
+__________________
+Time running: 12:35
+Bet total: 28 - Bet: 12
+__________________
+
+History: [1, 0, 0, 0, 1, 1, 0]
+Array Bet: [0.8, 0.2, 0.4, 0.4, 0.2]
+Last payout: 1.11
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.69
+Profit: 0.732000
+__________________
+Time running: 12:54
+Bet total: 29 - Bet: 13
+__________________
+
+History: [0, 0, 0, 1, 1, 0, 0]
+Array Bet: [0.8, 0.2, 0.4, 0.4, 0.2]
+Last payout: 1.69
+Bet: 0 - Pass this time
+History: [0, 0, 1, 1, 0, 0, 1]
+Array Bet: [0.8, 0.2, 0.4, 0.4, 0.2]
+Last payout: 3.29
+Bet: 0 - Pass this time
+History: [0, 1, 1, 0, 0, 1, 0]
+Array Bet: [0.8, 0.2, 0.4, 0.4, 0.2]
+Last payout: 1.44
+Bet: 0.8000 Payout at: 1.20
+Win 0.544000 payout 1.96
+Profit: 1.276000
+__________________
+Time running: 13:1
+Bet total: 32 - Bet: 14
+__________________
+
+History: [1, 1, 0, 0, 1, 0, 0]
+Array Bet: [0.2, 0.2, 0.4, 0.4, 0.2]
+Last payout: 1.96
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 0, 0, 1]
+Array Bet: [0.2, 0.2, 0.4, 0.4, 0.2]
+Last payout: 2.59
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 32.07
+Profit: 1.216000
+__________________
+Time running: 15:35
+Bet total: 34 - Bet: 15
+__________________
+
+History: [0, 0, 1, 0, 0, 1, 2]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.2]
+Last payout: 32.07
+Bet: 0 - Pass this time
+History: [0, 1, 0, 0, 1, 2, 2]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.2]
+Last payout: 13.19
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 2, 2, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.2]
+Last payout: 1.76
+Bet: 0 - Pass this time
+History: [0, 0, 1, 2, 2, 0, 2]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.2]
+Last payout: 14.32
+Bet: 0 - Pass this time
+History: [0, 1, 2, 2, 0, 2, 1]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.2]
+Last payout: 4.78
+Bet: 0 - Pass this time
+History: [1, 2, 2, 0, 2, 1, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.2]
+Last payout: 1.14
+Bet: 0 - Pass this time
+History: [2, 2, 0, 2, 1, 0, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.2]
+Last payout: 1.65
+Bet: 0 - Pass this time
+History: [2, 0, 2, 1, 0, 0, 1]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.2]
+Last payout: 3.16
+Bet: 0 - Pass this time
+History: [0, 2, 1, 0, 0, 1, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.2]
+Last payout: 1.47
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.30
+Profit: 1.488000
+__________________
+Time running: 19:49
+Bet total: 43 - Bet: 16
+__________________
+
+History: [2, 1, 0, 0, 1, 0, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.2]
+Last payout: 1.3
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 0, 0, 1]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.2]
+Last payout: 2.05
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 39.58
+Profit: 1.428000
+__________________
+Time running: 20:22
+Bet total: 45 - Bet: 17
+__________________
+
+History: [0, 0, 1, 0, 0, 1, 2]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.4]
+Last payout: 39.58
+Bet: 0 - Pass this time
+History: [0, 1, 0, 0, 1, 2, 2]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.4]
+Last payout: 29.9
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 2, 2, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.4]
+Last payout: 1.66
+Bet: 0 - Pass this time
+History: [0, 0, 1, 2, 2, 0, 1]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.4]
+Last payout: 2.58
+Bet: 0 - Pass this time
+History: [0, 1, 2, 2, 0, 1, 2]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.4]
+Last payout: 20.41
+Bet: 0 - Pass this time
+History: [1, 2, 2, 0, 1, 2, 1]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.4]
+Last payout: 4.87
+Bet: 0 - Pass this time
+History: [2, 2, 0, 1, 2, 1, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.4]
+Last payout: 1.96
+Bet: 0 - Pass this time
+History: [2, 0, 1, 2, 1, 0, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.4]
+Last payout: 1.18
+Bet: 0 - Pass this time
+History: [0, 1, 2, 1, 0, 0, 1]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.4]
+Last payout: 4.26
+Bet: 0 - Pass this time
+History: [1, 2, 1, 0, 0, 1, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.4]
+Last payout: 1.0
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.89
+Profit: 1.564000
+__________________
+Time running: 26:30
+Bet total: 55 - Bet: 18
+__________________
+
+History: [2, 1, 0, 0, 1, 0, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.4]
+Last payout: 1.89
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 0, 0, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.2, 0.4]
+Last payout: 1.42
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 21.69
+Profit: 1.504000
+__________________
+Time running: 27:47
+Bet total: 57 - Bet: 19
+__________________
+
+History: [0, 0, 1, 0, 0, 0, 2]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.4]
+Last payout: 21.69
+Bet: 0 - Pass this time
+History: [0, 1, 0, 0, 0, 2, 1]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.4]
+Last payout: 9.75
+Bet: 0 - Pass this time
+History: [1, 0, 0, 0, 2, 1, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.4]
+Last payout: 1.54
+Bet: 0 - Pass this time
+History: [0, 0, 0, 2, 1, 0, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.4]
+Last payout: 1.11
+Bet: 0 - Pass this time
+History: [0, 0, 2, 1, 0, 0, 0]
+Array Bet: [0.2, 0.4, 0.4, 0.4, 0.4]
+Last payout: 1.42
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 4.89
+New max bet: 0.8000
+Profit: 1.384000
+__________________
+Time running: 29:57
+Bet total: 62 - Bet: 20
+__________________
+
+History: [0, 2, 1, 0, 0, 0, 1]
+Array Bet: [0.2, 0.8, 0.4, 0.4, 0.4]
+Last payout: 4.89
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 3.55
+New max bet: 0.8000
+Profit: 1.264000
+__________________
+Time running: 29:28
+Bet total: 63 - Bet: 21
+__________________
+
+History: [2, 1, 0, 0, 0, 1, 1]
+Array Bet: [0.2, 0.8, 0.8, 0.4, 0.4]
+Last payout: 3.55
+Bet: 0.8000 Payout at: 1.20
+Lose 0.240000 - Payout 21.02
+New max bet: 1.6000
+Profit: 1.024000
+__________________
+Time running: 30:29
+Bet total: 64 - Bet: 22
+__________________
+
+History: [1, 0, 0, 0, 1, 1, 2]
+Array Bet: [0.2, 0.8, 1.6, 0.4, 0.4]
+Last payout: 21.02
+Bet: 0 - Pass this time
+History: [0, 0, 0, 1, 1, 2, 0]
+Array Bet: [0.2, 0.8, 1.6, 0.4, 0.4]
+Last payout: 1.41
+Bet: 0 - Pass this time
+History: [0, 0, 1, 1, 2, 0, 1]
+Array Bet: [0.2, 0.8, 1.6, 0.4, 0.4]
+Last payout: 2.6
+Bet: 0 - Pass this time
+History: [0, 1, 1, 2, 0, 1, 1]
+Array Bet: [0.2, 0.8, 1.6, 0.4, 0.4]
+Last payout: 2.12
+Bet: 0.8000 Payout at: 1.20
+Win 0.544000 payout 1.42
+Profit: 1.568000
+__________________
+Time running: 32:49
+Bet total: 68 - Bet: 23
+__________________
+
+History: [1, 1, 2, 0, 1, 1, 0]
+Array Bet: [0.2, 0.2, 1.6, 0.4, 0.4]
+Last payout: 1.42
+Bet: 0 - Pass this time
+History: [1, 2, 0, 1, 1, 0, 0]
+Array Bet: [0.2, 0.2, 1.6, 0.4, 0.4]
+Last payout: 1.03
+Bet: 0 - Pass this time
+History: [2, 0, 1, 1, 0, 0, 0]
+Array Bet: [0.2, 0.2, 1.6, 0.4, 0.4]
+Last payout: 1.18
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 2.10
+Profit: 1.448000
+__________________
+Time running: 33:35
+Bet total: 71 - Bet: 24
+__________________
+
+History: [0, 1, 1, 0, 0, 0, 1]
+Array Bet: [0.2, 0.2, 1.6, 0.4, 0.8]
+Last payout: 2.1
+Bet: 1.6000 Payout at: 1.20
+Lose 0.480000 - Payout 2.72
+New max bet: 3.2000
+Profit: 0.968000
+__________________
+Time running: 33:2
+Bet total: 72 - Bet: 25
+__________________
+
+History: [1, 1, 0, 0, 0, 1, 1]
+Array Bet: [0.2, 0.2, 3.2, 0.4, 0.8]
+Last payout: 2.72
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 3.86
+Profit: 0.908000
+__________________
+Time running: 34:34
+Bet total: 73 - Bet: 26
+__________________
+
+History: [1, 0, 0, 0, 1, 1, 1]
+Array Bet: [0.4, 0.2, 3.2, 0.4, 0.8]
+Last payout: 3.86
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.38
+Profit: 1.180000
+__________________
+Time running: 34:50
+Bet total: 74 - Bet: 27
+__________________
+
+History: [0, 0, 0, 1, 1, 1, 0]
+Array Bet: [0.4, 0.2, 3.2, 0.2, 0.8]
+Last payout: 1.38
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 2.56
+Profit: 1.060000
+__________________
+Time running: 34:15
+Bet total: 75 - Bet: 28
+__________________
+
+History: [0, 0, 1, 1, 1, 0, 1]
+Array Bet: [0.8, 0.2, 3.2, 0.2, 0.8]
+Last payout: 2.56
+Bet: 3.2000 Payout at: 1.20
+Lose 0.960000 - Payout 5.80
+New max bet: 6.4000
+Profit: 0.100000
+__________________
+Time running: 35:55
+Bet total: 76 - Bet: 29
+__________________
+
+History: [0, 1, 1, 1, 0, 1, 1]
+Array Bet: [0.8, 0.2, 6.4, 0.2, 0.8]
+Last payout: 5.8
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 132.61
+Profit: 0.040000
+__________________
+Time running: 36:26
+Bet total: 77 - Bet: 30
+__________________
+
+History: [1, 1, 1, 0, 1, 1, 2]
+Array Bet: [0.8, 0.4, 6.4, 0.2, 0.8]
+Last payout: 132.61
+Bet: 0 - Pass this time
+History: [1, 1, 0, 1, 1, 2, 1]
+Array Bet: [0.8, 0.4, 6.4, 0.2, 0.8]
+Last payout: 7.05
+Bet: 0 - Pass this time
+History: [1, 0, 1, 1, 2, 1, 1]
+Array Bet: [0.8, 0.4, 6.4, 0.2, 0.8]
+Last payout: 2.88
+Bet: 0 - Pass this time
+History: [0, 1, 1, 2, 1, 1, 0]
+Array Bet: [0.8, 0.4, 6.4, 0.2, 0.8]
+Last payout: 1.84
+Bet: 0 - Pass this time
+History: [1, 1, 2, 1, 1, 0, 0]
+Array Bet: [0.8, 0.4, 6.4, 0.2, 0.8]
+Last payout: 1.46
+Bet: 0 - Pass this time
+History: [1, 2, 1, 1, 0, 0, 0]
+Array Bet: [0.8, 0.4, 6.4, 0.2, 0.8]
+Last payout: 1.5
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.58
+Profit: 0.312000
+__________________
+Time running: 39:48
+Bet total: 83 - Bet: 31
+__________________
+
+History: [2, 1, 1, 0, 0, 0, 0]
+Array Bet: [0.8, 0.2, 6.4, 0.2, 0.8]
+Last payout: 1.58
+Bet: 0.8000 Payout at: 1.20
+Win 0.544000 payout 1.26
+Profit: 0.856000
+__________________
+Time running: 39:2
+Bet total: 84 - Bet: 32
+__________________
+
+History: [1, 1, 0, 0, 0, 0, 0]
+Array Bet: [0.8, 0.2, 6.4, 0.2, 0.2]
+Last payout: 1.26
+Bet: 0.8000 Payout at: 1.20
+Lose 0.240000 - Payout 2.52
+Profit: 0.616000
+__________________
+Time running: 39:27
+Bet total: 85 - Bet: 33
+__________________
+
+History: [1, 0, 0, 0, 0, 0, 1]
+Array Bet: [1.6, 0.2, 6.4, 0.2, 0.2]
+Last payout: 2.52
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 0, 1, 0]
+Array Bet: [1.6, 0.2, 6.4, 0.2, 0.2]
+Last payout: 1.13
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 1, 0, 0]
+Array Bet: [1.6, 0.2, 6.4, 0.2, 0.2]
+Last payout: 1.66
+Bet: 0 - Pass this time
+History: [0, 0, 0, 1, 0, 0, 0]
+Array Bet: [1.6, 0.2, 6.4, 0.2, 0.2]
+Last payout: 1.05
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.47
+Profit: 0.752000
+__________________
+Time running: 40:25
+Bet total: 89 - Bet: 34
+__________________
+
+History: [0, 0, 1, 0, 0, 0, 0]
+Array Bet: [1.6, 0.2, 6.4, 0.2, 0.2]
+Last payout: 1.47
+Bet: 1.6000 Payout at: 1.20
+Win 1.088000 payout 1.23
+Profit: 1.840000
+__________________
+Time running: 41:38
+Bet total: 90 - Bet: 35
+__________________
+
+History: [0, 1, 0, 0, 0, 0, 0]
+Array Bet: [0.2, 0.2, 6.4, 0.2, 0.2]
+Last payout: 1.23
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.56
+Profit: 1.976000
+__________________
+Time running: 41:56
+Bet total: 91 - Bet: 36
+__________________
+
+History: [1, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.2, 0.2, 6.4, 0.2, 0.2]
+Last payout: 1.56
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 2.18
+Profit: 1.916000
+__________________
+Time running: 41:19
+Bet total: 92 - Bet: 37
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 1]
+Array Bet: [0.4, 0.2, 6.4, 0.2, 0.2]
+Last payout: 2.18
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 0, 1, 1]
+Array Bet: [0.4, 0.2, 6.4, 0.2, 0.2]
+Last payout: 2.12
+Bet: 6.4000 Payout at: 1.20
+Lose 1.920000 - Payout 2.32
+New max bet: 12.8000
+Profit: -0.004000
+__________________
+Time running: 42:5
+Bet total: 94 - Bet: 38
+__________________
+
+History: [0, 0, 0, 0, 1, 1, 1]
+Array Bet: [0.4, 0.2, 12.8, 0.2, 0.2]
+Last payout: 2.32
+Bet: 0 - Pass this time
+History: [0, 0, 0, 1, 1, 1, 2]
+Array Bet: [0.4, 0.2, 12.8, 0.2, 0.2]
+Last payout: 10.27
+Bet: 0 - Pass this time
+History: [0, 0, 1, 1, 1, 2, 2]
+Array Bet: [0.4, 0.2, 12.8, 0.2, 0.2]
+Last payout: 15.84
+Bet: 0 - Pass this time
+History: [0, 1, 1, 1, 2, 2, 0]
+Array Bet: [0.4, 0.2, 12.8, 0.2, 0.2]
+Last payout: 1.33
+Bet: 0 - Pass this time
+History: [1, 1, 1, 2, 2, 0, 1]
+Array Bet: [0.4, 0.2, 12.8, 0.2, 0.2]
+Last payout: 4.06
+Bet: 0 - Pass this time
+History: [1, 1, 2, 2, 0, 1, 1]
+Array Bet: [0.4, 0.2, 12.8, 0.2, 0.2]
+Last payout: 4.87
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 15.04
+Profit: -0.064000
+__________________
+Time running: 46:10
+Bet total: 100 - Bet: 39
+__________________
+
+History: [1, 2, 2, 0, 1, 1, 2]
+Array Bet: [0.4, 0.2, 12.8, 0.4, 0.2]
+Last payout: 15.04
+Bet: 0 - Pass this time
+History: [2, 2, 0, 1, 1, 2, 1]
+Array Bet: [0.4, 0.2, 12.8, 0.4, 0.2]
+Last payout: 2.06
+Bet: 0 - Pass this time
+History: [2, 0, 1, 1, 2, 1, 1]
+Array Bet: [0.4, 0.2, 12.8, 0.4, 0.2]
+Last payout: 2.65
+Bet: 0 - Pass this time
+History: [0, 1, 1, 2, 1, 1, 1]
+Array Bet: [0.4, 0.2, 12.8, 0.4, 0.2]
+Last payout: 6.62
+Bet: 0 - Pass this time
+History: [1, 1, 2, 1, 1, 1, 0]
+Array Bet: [0.4, 0.2, 12.8, 0.4, 0.2]
+Last payout: 1.18
+Bet: 0 - Pass this time
+History: [1, 2, 1, 1, 1, 0, 0]
+Array Bet: [0.4, 0.2, 12.8, 0.4, 0.2]
+Last payout: 1.33
+Bet: 0 - Pass this time
+History: [2, 1, 1, 1, 0, 0, 0]
+Array Bet: [0.4, 0.2, 12.8, 0.4, 0.2]
+Last payout: 1.96
+Bet: 12.8000 Payout at: 1.20
+Win 8.704000 payout 1.47
+Profit: 8.640000
+__________________
+Time running: 49:46
+Bet total: 107 - Bet: 40
+__________________
+
+History: [1, 1, 1, 0, 0, 0, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 0.2]
+Last payout: 1.47
+Bet: 0.4000 Payout at: 1.20
+Lose 0.208000 - Payout 1.19
+Profit: 8.432000
+__________________
+Time running: 49:59
+Bet total: 108 - Bet: 41
+__________________
+
+History: [1, 1, 0, 0, 0, 0, 0]
+Array Bet: [0.8, 0.2, 0.2, 0.4, 0.2]
+Last payout: 1.19
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.01
+Profit: 8.328000
+__________________
+Time running: 49:9
+Bet total: 109 - Bet: 42
+__________________
+
+History: [1, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.8, 0.4, 0.2, 0.4, 0.2]
+Last payout: 1.01
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.47
+Profit: 8.464000
+__________________
+Time running: 49:26
+Bet total: 110 - Bet: 43
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.8, 0.4, 0.2, 0.4, 0.2]
+Last payout: 1.47
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 8.63
+Profit: 8.344000
+__________________
+Time running: 50:11
+Bet total: 111 - Bet: 44
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 1]
+Array Bet: [0.8, 0.8, 0.2, 0.4, 0.2]
+Last payout: 8.63
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 0, 1, 0]
+Array Bet: [0.8, 0.8, 0.2, 0.4, 0.2]
+Last payout: 1.05
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 1, 0, 0]
+Array Bet: [0.8, 0.8, 0.2, 0.4, 0.2]
+Last payout: 1.89
+Bet: 0 - Pass this time
+History: [0, 0, 0, 1, 0, 0, 1]
+Array Bet: [0.8, 0.8, 0.2, 0.4, 0.2]
+Last payout: 2.38
+Bet: 0 - Pass this time
+History: [0, 0, 1, 0, 0, 1, 0]
+Array Bet: [0.8, 0.8, 0.2, 0.4, 0.2]
+Last payout: 1.0
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.46
+Profit: 8.616000
+__________________
+Time running: 52:34
+Bet total: 116 - Bet: 45
+__________________
+
+History: [0, 1, 0, 0, 1, 0, 0]
+Array Bet: [0.8, 0.8, 0.2, 0.2, 0.2]
+Last payout: 1.46
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 0, 0, 0]
+Array Bet: [0.8, 0.8, 0.2, 0.2, 0.2]
+Last payout: 1.42
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.77
+Profit: 8.752000
+__________________
+Time running: 52:9
+Bet total: 118 - Bet: 46
+__________________
+
+History: [0, 0, 1, 0, 0, 0, 0]
+Array Bet: [0.8, 0.8, 0.2, 0.2, 0.2]
+Last payout: 1.77
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.49
+Profit: 8.888000
+__________________
+Time running: 52:26
+Bet total: 119 - Bet: 47
+__________________
+
+History: [0, 1, 0, 0, 0, 0, 0]
+Array Bet: [0.8, 0.8, 0.2, 0.2, 0.2]
+Last payout: 1.49
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 4.76
+Profit: 8.828000
+__________________
+Time running: 53:2
+Bet total: 120 - Bet: 48
+__________________
+
+History: [1, 0, 0, 0, 0, 0, 1]
+Array Bet: [0.8, 0.8, 0.2, 0.4, 0.2]
+Last payout: 4.76
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 0, 1, 0]
+Array Bet: [0.8, 0.8, 0.2, 0.4, 0.2]
+Last payout: 1.05
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 1, 0, 1]
+Array Bet: [0.8, 0.8, 0.2, 0.4, 0.2]
+Last payout: 2.81
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 2.01
+Profit: 8.708000
+__________________
+Time running: 54:2
+Bet total: 123 - Bet: 49
+__________________
+
+History: [0, 0, 0, 1, 0, 1, 1]
+Array Bet: [0.8, 0.8, 0.2, 0.8, 0.2]
+Last payout: 2.01
+Bet: 0.8000 Payout at: 1.20
+Win 0.544000 payout 1.53
+Profit: 9.252000
+__________________
+Time running: 54:19
+Bet total: 124 - Bet: 50
+__________________
+
+History: [0, 0, 1, 0, 1, 1, 0]
+Array Bet: [0.8, 0.8, 0.2, 0.2, 0.2]
+Last payout: 1.53
+Bet: 0 - Pass this time
+History: [0, 1, 0, 1, 1, 0, 0]
+Array Bet: [0.8, 0.8, 0.2, 0.2, 0.2]
+Last payout: 1.97
+Bet: 0 - Pass this time
+History: [1, 0, 1, 1, 0, 0, 0]
+Array Bet: [0.8, 0.8, 0.2, 0.2, 0.2]
+Last payout: 1.62
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.88
+Profit: 9.388000
+__________________
+Time running: 55:19
+Bet total: 127 - Bet: 51
+__________________
+
+History: [0, 1, 1, 0, 0, 0, 0]
+Array Bet: [0.8, 0.8, 0.2, 0.2, 0.2]
+Last payout: 1.88
+Bet: 0.8000 Payout at: 1.20
+Win 0.544000 payout 1.39
+Profit: 9.932000
+__________________
+Time running: 56:35
+Bet total: 128 - Bet: 52
+__________________
+
+History: [1, 1, 0, 0, 0, 0, 0]
+Array Bet: [0.2, 0.8, 0.2, 0.2, 0.2]
+Last payout: 1.39
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.21
+Profit: 10.068000
+__________________
+Time running: 56:48
+Bet total: 129 - Bet: 53
+__________________
+
+History: [1, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.2, 0.8, 0.2, 0.2, 0.2]
+Last payout: 1.21
+Bet: 0.8000 Payout at: 1.20
+Lose 0.416000 - Payout 1.18
+Profit: 9.652000
+__________________
+Time running: 56:2
+Bet total: 130 - Bet: 54
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.2, 1.6, 0.2, 0.2, 0.2]
+Last payout: 1.18
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.12
+Profit: 9.548000
+__________________
+Time running: 56:26
+Bet total: 131 - Bet: 55
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.2, 1.6, 0.4, 0.2, 0.2]
+Last payout: 1.12
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.33
+Profit: 9.684000
+__________________
+Time running: 57:41
+Bet total: 132 - Bet: 56
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.2, 1.6, 0.4, 0.2, 0.2]
+Last payout: 1.33
+Bet: 0.4000 Payout at: 1.20
+Lose 0.208000 - Payout 1.02
+Profit: 9.476000
+__________________
+Time running: 57:52
+Bet total: 133 - Bet: 57
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.2, 1.6, 0.8, 0.2, 0.2]
+Last payout: 1.02
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.10
+Profit: 9.372000
+__________________
+Time running: 57:4
+Bet total: 134 - Bet: 58
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.4, 1.6, 0.8, 0.2, 0.2]
+Last payout: 1.1
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.84
+Profit: 9.508000
+__________________
+Time running: 57:24
+Bet total: 135 - Bet: 59
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.4, 1.6, 0.8, 0.2, 0.2]
+Last payout: 1.84
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.32
+Profit: 9.780000
+__________________
+Time running: 58:38
+Bet total: 136 - Bet: 60
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.2, 1.6, 0.8, 0.2, 0.2]
+Last payout: 1.32
+Bet: 1.6000 Payout at: 1.20
+Win 1.088000 payout 1.41
+Profit: 10.868000
+__________________
+Time running: 58:54
+Bet total: 137 - Bet: 61
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.2, 0.2, 0.8, 0.2, 0.2]
+Last payout: 1.41
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.38
+Profit: 11.004000
+__________________
+Time running: 58:10
+Bet total: 138 - Bet: 62
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.2, 0.2, 0.8, 0.2, 0.2]
+Last payout: 1.38
+Bet: 0.8000 Payout at: 1.20
+Lose 0.240000 - Payout 2.74
+Profit: 10.764000
+__________________
+Time running: 59:37
+Bet total: 139 - Bet: 63
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 1]
+Array Bet: [0.2, 0.2, 1.6, 0.2, 0.2]
+Last payout: 2.74
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 0, 1, 0]
+Array Bet: [0.2, 0.2, 1.6, 0.2, 0.2]
+Last payout: 1.43
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 1, 0, 1]
+Array Bet: [0.2, 0.2, 1.6, 0.2, 0.2]
+Last payout: 3.24
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 170.42
+Profit: 10.704000
+__________________
+Time running: 61:58
+Bet total: 142 - Bet: 64
+__________________
+
+History: [0, 0, 0, 1, 0, 1, 2]
+Array Bet: [0.2, 0.2, 1.6, 0.4, 0.2]
+Last payout: 170.42
+Bet: 0 - Pass this time
+History: [0, 0, 1, 0, 1, 2, 2]
+Array Bet: [0.2, 0.2, 1.6, 0.4, 0.2]
+Last payout: 88.07
+Bet: 0 - Pass this time
+History: [0, 1, 0, 1, 2, 2, 0]
+Array Bet: [0.2, 0.2, 1.6, 0.4, 0.2]
+Last payout: 1.68
+Bet: 0 - Pass this time
+History: [1, 0, 1, 2, 2, 0, 0]
+Array Bet: [0.2, 0.2, 1.6, 0.4, 0.2]
+Last payout: 1.48
+Bet: 0 - Pass this time
+History: [0, 1, 2, 2, 0, 0, 0]
+Array Bet: [0.2, 0.2, 1.6, 0.4, 0.2]
+Last payout: 1.66
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.57
+Profit: 10.840000
+__________________
+Time running: 64:34
+Bet total: 147 - Bet: 65
+__________________
+
+History: [1, 2, 2, 0, 0, 0, 0]
+Array Bet: [0.2, 0.2, 1.6, 0.4, 0.2]
+Last payout: 1.57
+Bet: 1.6000 Payout at: 1.20
+Lose 0.480000 - Payout 2.07
+Profit: 10.360000
+__________________
+Time running: 64:56
+Bet total: 148 - Bet: 66
+__________________
+
+History: [2, 2, 0, 0, 0, 0, 1]
+Array Bet: [0.2, 0.2, 3.2, 0.4, 0.2]
+Last payout: 2.07
+Bet: 0 - Pass this time
+History: [2, 0, 0, 0, 0, 1, 2]
+Array Bet: [0.2, 0.2, 3.2, 0.4, 0.2]
+Last payout: 23.95
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 1, 2, 0]
+Array Bet: [0.2, 0.2, 3.2, 0.4, 0.2]
+Last payout: 1.78
+Bet: 0 - Pass this time
+History: [0, 0, 0, 1, 2, 0, 0]
+Array Bet: [0.2, 0.2, 3.2, 0.4, 0.2]
+Last payout: 1.7
+Bet: 0 - Pass this time
+History: [0, 0, 1, 2, 0, 0, 0]
+Array Bet: [0.2, 0.2, 3.2, 0.4, 0.2]
+Last payout: 1.56
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 5.99
+Profit: 10.300000
+__________________
+Time running: 67:35
+Bet total: 153 - Bet: 67
+__________________
+
+History: [0, 1, 2, 0, 0, 0, 1]
+Array Bet: [0.2, 0.2, 3.2, 0.4, 0.4]
+Last payout: 5.99
+Bet: 0 - Pass this time
+History: [1, 2, 0, 0, 0, 1, 1]
+Array Bet: [0.2, 0.2, 3.2, 0.4, 0.4]
+Last payout: 6.67
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 2.30
+Profit: 10.240000
+__________________
+Time running: 68:41
+Bet total: 155 - Bet: 68
+__________________
+
+History: [2, 0, 0, 0, 1, 1, 1]
+Array Bet: [0.4, 0.2, 3.2, 0.4, 0.4]
+Last payout: 2.3
+Bet: 0 - Pass this time
+History: [0, 0, 0, 1, 1, 1, 1]
+Array Bet: [0.4, 0.2, 3.2, 0.4, 0.4]
+Last payout: 2.92
+Bet: 0 - Pass this time
+History: [0, 0, 1, 1, 1, 1, 1]
+Array Bet: [0.4, 0.2, 3.2, 0.4, 0.4]
+Last payout: 8.15
+Bet: 0 - Pass this time
+History: [0, 1, 1, 1, 1, 1, 0]
+Array Bet: [0.4, 0.2, 3.2, 0.4, 0.4]
+Last payout: 1.12
+Bet: 0 - Pass this time
+History: [1, 1, 1, 1, 1, 0, 0]
+Array Bet: [0.4, 0.2, 3.2, 0.4, 0.4]
+Last payout: 1.11
+Bet: 0 - Pass this time
+History: [1, 1, 1, 1, 0, 0, 0]
+Array Bet: [0.4, 0.2, 3.2, 0.4, 0.4]
+Last payout: 1.93
+Bet: 3.2000 Payout at: 1.20
+Win 2.176000 payout 1.43
+Profit: 12.416000
+__________________
+Time running: 70:55
+Bet total: 161 - Bet: 69
+__________________
+
+History: [1, 1, 1, 0, 0, 0, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 0.4]
+Last payout: 1.43
+Bet: 0.4000 Payout at: 1.20
+Lose 0.208000 - Payout 1.00
+Profit: 12.208000
+__________________
+Time running: 70:6
+Bet total: 162 - Bet: 70
+__________________
+
+History: [1, 1, 0, 0, 0, 0, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 0.8]
+Last payout: 1.0
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.56
+Profit: 12.480000
+__________________
+Time running: 70:23
+Bet total: 163 - Bet: 71
+__________________
+
+History: [1, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.2, 0.8]
+Last payout: 1.56
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.46
+Profit: 12.616000
+__________________
+Time running: 71:39
+Bet total: 164 - Bet: 72
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.2, 0.8]
+Last payout: 1.46
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 2.32
+Profit: 12.496000
+__________________
+Time running: 71:3
+Bet total: 165 - Bet: 73
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 1]
+Array Bet: [0.8, 0.2, 0.2, 0.2, 0.8]
+Last payout: 2.32
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 0, 1, 1]
+Array Bet: [0.8, 0.2, 0.2, 0.2, 0.8]
+Last payout: 2.24
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.13
+Profit: 12.392000
+__________________
+Time running: 72:39
+Bet total: 167 - Bet: 74
+__________________
+
+History: [0, 0, 0, 0, 1, 1, 0]
+Array Bet: [0.8, 0.2, 0.4, 0.2, 0.8]
+Last payout: 1.13
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.47
+Profit: 12.528000
+__________________
+Time running: 72:55
+Bet total: 168 - Bet: 75
+__________________
+
+History: [0, 0, 0, 1, 1, 0, 0]
+Array Bet: [0.8, 0.2, 0.4, 0.2, 0.8]
+Last payout: 1.47
+Bet: 0 - Pass this time
+History: [0, 0, 1, 1, 0, 0, 1]
+Array Bet: [0.8, 0.2, 0.4, 0.2, 0.8]
+Last payout: 2.81
+Bet: 0 - Pass this time
+History: [0, 1, 1, 0, 0, 1, 0]
+Array Bet: [0.8, 0.2, 0.4, 0.2, 0.8]
+Last payout: 1.17
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.05
+Profit: 12.424000
+__________________
+Time running: 73:46
+Bet total: 171 - Bet: 76
+__________________
+
+History: [1, 1, 0, 0, 1, 0, 0]
+Array Bet: [0.8, 0.2, 0.4, 0.4, 0.8]
+Last payout: 1.05
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 0, 0, 0]
+Array Bet: [0.8, 0.2, 0.4, 0.4, 0.8]
+Last payout: 1.64
+Bet: 0.8000 Payout at: 1.20
+Lose 0.240000 - Payout 12.85
+Profit: 12.184000
+__________________
+Time running: 74:57
+Bet total: 173 - Bet: 77
+__________________
+
+History: [0, 0, 1, 0, 0, 0, 2]
+Array Bet: [1.6, 0.2, 0.4, 0.4, 0.8]
+Last payout: 12.85
+Bet: 0 - Pass this time
+History: [0, 1, 0, 0, 0, 2, 2]
+Array Bet: [1.6, 0.2, 0.4, 0.4, 0.8]
+Last payout: 20.34
+Bet: 0 - Pass this time
+History: [1, 0, 0, 0, 2, 2, 0]
+Array Bet: [1.6, 0.2, 0.4, 0.4, 0.8]
+Last payout: 1.3
+Bet: 0 - Pass this time
+History: [0, 0, 0, 2, 2, 0, 1]
+Array Bet: [1.6, 0.2, 0.4, 0.4, 0.8]
+Last payout: 3.6
+Bet: 0 - Pass this time
+History: [0, 0, 2, 2, 0, 1, 1]
+Array Bet: [1.6, 0.2, 0.4, 0.4, 0.8]
+Last payout: 2.25
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.63
+Profit: 12.456000
+__________________
+Time running: 76:24
+Bet total: 178 - Bet: 78
+__________________
+
+History: [0, 2, 2, 0, 1, 1, 0]
+Array Bet: [1.6, 0.2, 0.4, 0.2, 0.8]
+Last payout: 1.63
+Bet: 0 - Pass this time
+History: [2, 2, 0, 1, 1, 0, 0]
+Array Bet: [1.6, 0.2, 0.4, 0.2, 0.8]
+Last payout: 1.25
+Bet: 0 - Pass this time
+History: [2, 0, 1, 1, 0, 0, 1]
+Array Bet: [1.6, 0.2, 0.4, 0.2, 0.8]
+Last payout: 2.49
+Bet: 0 - Pass this time
+History: [0, 1, 1, 0, 0, 1, 0]
+Array Bet: [1.6, 0.2, 0.4, 0.2, 0.8]
+Last payout: 1.71
+Bet: 1.6000 Payout at: 1.20
+Lose 0.832000 - Payout 1.19
+Profit: 11.624000
+__________________
+Time running: 78:35
+Bet total: 182 - Bet: 79
+__________________
+
+History: [1, 1, 0, 0, 1, 0, 0]
+Array Bet: [3.2, 0.2, 0.4, 0.2, 0.8]
+Last payout: 1.19
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 0, 0, 0]
+Array Bet: [3.2, 0.2, 0.4, 0.2, 0.8]
+Last payout: 1.78
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.45
+Profit: 11.760000
+__________________
+Time running: 78:11
+Bet total: 184 - Bet: 80
+__________________
+
+History: [0, 0, 1, 0, 0, 0, 0]
+Array Bet: [3.2, 0.2, 0.4, 0.2, 0.8]
+Last payout: 1.45
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.30
+Profit: 11.896000
+__________________
+Time running: 78:26
+Bet total: 185 - Bet: 81
+__________________
+
+History: [0, 1, 0, 0, 0, 0, 0]
+Array Bet: [3.2, 0.2, 0.4, 0.2, 0.8]
+Last payout: 1.3
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.00
+Profit: 11.792000
+__________________
+Time running: 79:36
+Bet total: 186 - Bet: 82
+__________________
+
+History: [1, 0, 0, 0, 0, 0, 0]
+Array Bet: [3.2, 0.2, 0.4, 0.4, 0.8]
+Last payout: 1.0
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 2.35
+Profit: 11.672000
+__________________
+Time running: 79:11
+Bet total: 187 - Bet: 83
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 1]
+Array Bet: [3.2, 0.2, 0.4, 0.8, 0.8]
+Last payout: 2.35
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 0, 1, 0]
+Array Bet: [3.2, 0.2, 0.4, 0.8, 0.8]
+Last payout: 1.03
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 1, 0, 2]
+Array Bet: [3.2, 0.2, 0.4, 0.8, 0.8]
+Last payout: 11.9
+Bet: 0 - Pass this time
+History: [0, 0, 0, 1, 0, 2, 2]
+Array Bet: [3.2, 0.2, 0.4, 0.8, 0.8]
+Last payout: 29.76
+Bet: 0 - Pass this time
+History: [0, 0, 1, 0, 2, 2, 0]
+Array Bet: [3.2, 0.2, 0.4, 0.8, 0.8]
+Last payout: 1.54
+Bet: 0 - Pass this time
+History: [0, 1, 0, 2, 2, 0, 0]
+Array Bet: [3.2, 0.2, 0.4, 0.8, 0.8]
+Last payout: 1.06
+Bet: 0 - Pass this time
+History: [1, 0, 2, 2, 0, 0, 0]
+Array Bet: [3.2, 0.2, 0.4, 0.8, 0.8]
+Last payout: 1.95
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.46
+Profit: 11.808000
+__________________
+Time running: 82:25
+Bet total: 194 - Bet: 84
+__________________
+
+History: [0, 2, 2, 0, 0, 0, 0]
+Array Bet: [3.2, 0.2, 0.4, 0.8, 0.8]
+Last payout: 1.46
+Bet: 0.4000 Payout at: 1.20
+Lose 0.208000 - Payout 1.03
+Profit: 11.600000
+__________________
+Time running: 83:36
+Bet total: 195 - Bet: 85
+__________________
+
+History: [2, 2, 0, 0, 0, 0, 0]
+Array Bet: [3.2, 0.2, 0.8, 0.8, 0.8]
+Last payout: 1.03
+Bet: 0.8000 Payout at: 1.20
+Lose 0.240000 - Payout 5.19
+Profit: 11.360000
+__________________
+Time running: 83:13
+Bet total: 196 - Bet: 86
+__________________
+
+History: [2, 0, 0, 0, 0, 0, 1]
+Array Bet: [3.2, 0.2, 0.8, 1.6, 0.8]
+Last payout: 5.19
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 0, 1, 0]
+Array Bet: [3.2, 0.2, 0.8, 1.6, 0.8]
+Last payout: 1.11
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 1, 0, 1]
+Array Bet: [3.2, 0.2, 0.8, 1.6, 0.8]
+Last payout: 4.44
+Bet: 1.6000 Payout at: 1.20
+Win 1.088000 payout 1.79
+Profit: 12.448000
+__________________
+Time running: 84:20
+Bet total: 199 - Bet: 87
+__________________
+
+History: [0, 0, 0, 1, 0, 1, 0]
+Array Bet: [3.2, 0.2, 0.8, 0.2, 0.8]
+Last payout: 1.79
+Bet: 0 - Pass this time
+History: [0, 0, 1, 0, 1, 0, 0]
+Array Bet: [3.2, 0.2, 0.8, 0.2, 0.8]
+Last payout: 1.94
+Bet: 0 - Pass this time
+History: [0, 1, 0, 1, 0, 0, 0]
+Array Bet: [3.2, 0.2, 0.8, 0.2, 0.8]
+Last payout: 1.71
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 2.07
+Profit: 12.388000
+__________________
+Time running: 85:23
+Bet total: 202 - Bet: 88
+__________________
+
+History: [1, 0, 1, 0, 0, 0, 1]
+Array Bet: [3.2, 0.2, 0.8, 0.4, 0.8]
+Last payout: 2.07
+Bet: 0.4000 Payout at: 1.20
+Lose 0.208000 - Payout 1.03
+Profit: 12.180000
+__________________
+Time running: 86:34
+Bet total: 203 - Bet: 89
+__________________
+
+History: [0, 1, 0, 0, 0, 1, 0]
+Array Bet: [3.2, 0.2, 0.8, 0.8, 0.8]
+Last payout: 1.03
+Bet: 0.8000 Payout at: 1.20
+Lose 0.240000 - Payout 3.23
+Profit: 11.940000
+__________________
+Time running: 86:3
+Bet total: 204 - Bet: 90
+__________________
+
+History: [1, 0, 0, 0, 1, 0, 1]
+Array Bet: [3.2, 0.2, 0.8, 1.6, 0.8]
+Last payout: 3.23
+Bet: 0.8000 Payout at: 1.20
+Lose 0.240000 - Payout 3.10
+Profit: 11.700000
+__________________
+Time running: 87:32
+Bet total: 205 - Bet: 91
+__________________
+
+History: [0, 0, 0, 1, 0, 1, 1]
+Array Bet: [3.2, 0.2, 1.6, 1.6, 0.8]
+Last payout: 3.1
+Bet: 3.2000 Payout at: 1.20
+Win 2.176000 payout 1.55
+Profit: 13.876000
+__________________
+Time running: 87:50
+Bet total: 206 - Bet: 92
+__________________
+
+History: [0, 0, 1, 0, 1, 1, 0]
+Array Bet: [0.2, 0.2, 1.6, 1.6, 0.8]
+Last payout: 1.55
+Bet: 0 - Pass this time
+History: [0, 1, 0, 1, 1, 0, 1]
+Array Bet: [0.2, 0.2, 1.6, 1.6, 0.8]
+Last payout: 9.59
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 13.76
+Profit: 13.816000
+__________________
+Time running: 89:31
+Bet total: 208 - Bet: 93
+__________________
+
+History: [1, 0, 1, 1, 0, 1, 2]
+Array Bet: [0.4, 0.2, 1.6, 1.6, 0.8]
+Last payout: 13.76
+Bet: 0 - Pass this time
+History: [0, 1, 1, 0, 1, 2, 0]
+Array Bet: [0.4, 0.2, 1.6, 1.6, 0.8]
+Last payout: 1.17
+Bet: 0 - Pass this time
+History: [1, 1, 0, 1, 2, 0, 1]
+Array Bet: [0.4, 0.2, 1.6, 1.6, 0.8]
+Last payout: 4.95
+Bet: 0 - Pass this time
+History: [1, 0, 1, 2, 0, 1, 1]
+Array Bet: [0.4, 0.2, 1.6, 1.6, 0.8]
+Last payout: 2.16
+Bet: 0.8000 Payout at: 1.20
+Lose 0.240000 - Payout 3.93
+Profit: 13.576000
+__________________
+Time running: 90:17
+Bet total: 212 - Bet: 94
+__________________
+
+History: [0, 1, 2, 0, 1, 1, 1]
+Array Bet: [0.4, 0.2, 1.6, 1.6, 1.6]
+Last payout: 3.93
+Bet: 0 - Pass this time
+History: [1, 2, 0, 1, 1, 1, 1]
+Array Bet: [0.4, 0.2, 1.6, 1.6, 1.6]
+Last payout: 7.97
+Bet: 0 - Pass this time
+History: [2, 0, 1, 1, 1, 1, 0]
+Array Bet: [0.4, 0.2, 1.6, 1.6, 1.6]
+Last payout: 1.98
+Bet: 0 - Pass this time
+History: [0, 1, 1, 1, 1, 0, 0]
+Array Bet: [0.4, 0.2, 1.6, 1.6, 1.6]
+Last payout: 1.0
+Bet: 0 - Pass this time
+History: [1, 1, 1, 1, 0, 0, 1]
+Array Bet: [0.4, 0.2, 1.6, 1.6, 1.6]
+Last payout: 2.37
+Bet: 0 - Pass this time
+History: [1, 1, 1, 0, 0, 1, 0]
+Array Bet: [0.4, 0.2, 1.6, 1.6, 1.6]
+Last payout: 1.79
+Bet: 0.2000 Payout at: 1.20
+Win 0.136000 payout 1.56
+Profit: 13.712000
+__________________
+Time running: 93:35
+Bet total: 218 - Bet: 95
+__________________
+
+History: [1, 1, 0, 0, 1, 0, 0]
+Array Bet: [0.4, 0.2, 1.6, 1.6, 1.6]
+Last payout: 1.56
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 0, 0, 0]
+Array Bet: [0.4, 0.2, 1.6, 1.6, 1.6]
+Last payout: 1.18
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 3.10
+Profit: 13.592000
+__________________
+Time running: 93:16
+Bet total: 220 - Bet: 96
+__________________
+
+History: [0, 0, 1, 0, 0, 0, 1]
+Array Bet: [0.8, 0.2, 1.6, 1.6, 1.6]
+Last payout: 3.1
+Bet: 1.6000 Payout at: 1.20
+Lose 0.480000 - Payout 2.67
+Profit: 13.112000
+__________________
+Time running: 94:43
+Bet total: 221 - Bet: 97
+__________________
+
+History: [0, 1, 0, 0, 0, 1, 1]
+Array Bet: [0.8, 0.2, 1.6, 1.6, 3.2]
+Last payout: 2.67
+Bet: 1.6000 Payout at: 1.20
+Lose 0.480000 - Payout 547.63
+Profit: 12.632000
+__________________
+Time running: 96:38
+Bet total: 222 - Bet: 98
+__________________
+
+History: [1, 0, 0, 0, 1, 1, 2]
+Array Bet: [0.8, 0.2, 1.6, 3.2, 3.2]
+Last payout: 547.63
+Bet: 0 - Pass this time
+History: [0, 0, 0, 1, 1, 2, 0]
+Array Bet: [0.8, 0.2, 1.6, 3.2, 3.2]
+Last payout: 1.53
+Bet: 0 - Pass this time
+History: [0, 0, 1, 1, 2, 0, 2]
+Array Bet: [0.8, 0.2, 1.6, 3.2, 3.2]
+Last payout: 18.12
+Bet: 0 - Pass this time
+History: [0, 1, 1, 2, 0, 2, 0]
+Array Bet: [0.8, 0.2, 1.6, 3.2, 3.2]
+Last payout: 1.92
+Bet: 0 - Pass this time
+History: [1, 1, 2, 0, 2, 0, 0]
+Array Bet: [0.8, 0.2, 1.6, 3.2, 3.2]
+Last payout: 1.8
+Bet: 0 - Pass this time
+History: [1, 2, 0, 2, 0, 0, 1]
+Array Bet: [0.8, 0.2, 1.6, 3.2, 3.2]
+Last payout: 3.08
+Bet: 0 - Pass this time
+History: [2, 0, 2, 0, 0, 1, 1]
+Array Bet: [0.8, 0.2, 1.6, 3.2, 3.2]
+Last payout: 3.17
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.06
+Profit: 12.528000
+__________________
+Time running: 99:45
+Bet total: 229 - Bet: 99
+__________________
+
+History: [0, 2, 0, 0, 1, 1, 0]
+Array Bet: [0.8, 0.4, 1.6, 3.2, 3.2]
+Last payout: 1.06
+Bet: 1.6000 Payout at: 1.20
+Win 1.088000 payout 1.94
+Profit: 13.616000
+__________________
+Time running: 99:6
+Bet total: 230 - Bet: 100
+__________________
+
+History: [2, 0, 0, 1, 1, 0, 0]
+Array Bet: [0.8, 0.4, 0.2, 3.2, 3.2]
+Last payout: 1.94
+Bet: 0 - Pass this time
+History: [0, 0, 1, 1, 0, 0, 0]
+Array Bet: [0.8, 0.4, 0.2, 3.2, 3.2]
+Last payout: 1.56
+Bet: 3.2000 Payout at: 1.20
+Lose 1.664000 - Payout 1.09
+Profit: 11.952000
+__________________
+Time running: 100:35
+Bet total: 232 - Bet: 101
+__________________
+
+History: [0, 1, 1, 0, 0, 0, 0]
+Array Bet: [0.8, 0.4, 0.2, 3.2, 6.4]
+Last payout: 1.09
+Bet: 0.4000 Payout at: 1.20
+Lose 0.208000 - Payout 1.14
+Profit: 11.744000
+__________________
+Time running: 100:47
+Bet total: 233 - Bet: 102
+__________________
+
+History: [1, 1, 0, 0, 0, 0, 0]
+Array Bet: [0.8, 0.8, 0.2, 3.2, 6.4]
+Last payout: 1.14
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 6.41
+Profit: 11.684000
+__________________
+Time running: 100:28
+Bet total: 234 - Bet: 103
+__________________
+
+History: [1, 0, 0, 0, 0, 0, 1]
+Array Bet: [0.8, 0.8, 0.4, 3.2, 6.4]
+Last payout: 6.41
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 0, 1, 2]
+Array Bet: [0.8, 0.8, 0.4, 3.2, 6.4]
+Last payout: 11.89
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 1, 2, 0]
+Array Bet: [0.8, 0.8, 0.4, 3.2, 6.4]
+Last payout: 1.45
+Bet: 0 - Pass this time
+History: [0, 0, 0, 1, 2, 0, 0]
+Array Bet: [0.8, 0.8, 0.4, 3.2, 6.4]
+Last payout: 1.42
+Bet: 0 - Pass this time
+History: [0, 0, 1, 2, 0, 0, 0]
+Array Bet: [0.8, 0.8, 0.4, 3.2, 6.4]
+Last payout: 1.21
+Bet: 0.8000 Payout at: 1.20
+Win 0.544000 payout 1.52
+Profit: 12.228000
+__________________
+Time running: 102:22
+Bet total: 239 - Bet: 104
+__________________
+
+History: [0, 1, 2, 0, 0, 0, 0]
+Array Bet: [0.8, 0.2, 0.4, 3.2, 6.4]
+Last payout: 1.52
+Bet: 3.2000 Payout at: 1.20
+Lose 1.664000 - Payout 1.13
+Profit: 10.564000
+__________________
+Time running: 103:35
+Bet total: 240 - Bet: 105
+__________________
+
+History: [1, 2, 0, 0, 0, 0, 0]
+Array Bet: [0.8, 0.2, 0.4, 6.4, 6.4]
+Last payout: 1.13
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.06
+Profit: 10.460000
+__________________
+Time running: 103:46
+Bet total: 241 - Bet: 106
+__________________
+
+History: [2, 0, 0, 0, 0, 0, 0]
+Array Bet: [0.8, 0.4, 0.4, 6.4, 6.4]
+Last payout: 1.06
+Bet: 6.4000 Payout at: 1.20
+Lose 1.920000 - Payout 3.32
+New max bet: 12.8000
+Profit: 8.540000
+__________________
+Time running: 103:16
+Bet total: 242 - Bet: 107
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 1]
+Array Bet: [0.8, 0.4, 0.4, 12.8, 6.4]
+Last payout: 3.32
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 0, 1, 1]
+Array Bet: [0.8, 0.4, 0.4, 12.8, 6.4]
+Last payout: 2.82
+Bet: 6.4000 Payout at: 1.20
+Win 4.352000 payout 1.54
+Profit: 12.892000
+__________________
+Time running: 104:1
+Bet total: 244 - Bet: 108
+__________________
+
+History: [0, 0, 0, 0, 1, 1, 0]
+Array Bet: [0.8, 0.4, 0.4, 12.8, 0.2]
+Last payout: 1.54
+Bet: 12.8000 Payout at: 1.20
+Win 8.704000 payout 1.73
+Profit: 21.596000
+__________________
+Time running: 104:20
+Bet total: 245 - Bet: 109
+__________________
+
+History: [0, 0, 0, 1, 1, 0, 0]
+Array Bet: [0.8, 0.4, 0.4, 0.2, 0.2]
+Last payout: 1.73
+Bet: 0 - Pass this time
+History: [0, 0, 1, 1, 0, 0, 1]
+Array Bet: [0.8, 0.4, 0.4, 0.2, 0.2]
+Last payout: 3.68
+Bet: 0 - Pass this time
+History: [0, 1, 1, 0, 0, 1, 1]
+Array Bet: [0.8, 0.4, 0.4, 0.2, 0.2]
+Last payout: 2.81
+Bet: 0.8000 Payout at: 1.20
+Lose 0.416000 - Payout 1.12
+Profit: 21.180000
+__________________
+Time running: 106:32
+Bet total: 248 - Bet: 110
+__________________
+
+History: [1, 1, 0, 0, 1, 1, 0]
+Array Bet: [1.6, 0.4, 0.4, 0.2, 0.2]
+Last payout: 1.12
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.81
+Profit: 21.452000
+__________________
+Time running: 106:52
+Bet total: 249 - Bet: 111
+__________________
+
+History: [1, 0, 0, 1, 1, 0, 0]
+Array Bet: [1.6, 0.2, 0.4, 0.2, 0.2]
+Last payout: 1.81
+Bet: 0 - Pass this time
+History: [0, 0, 1, 1, 0, 0, 1]
+Array Bet: [1.6, 0.2, 0.4, 0.2, 0.2]
+Last payout: 5.84
+Bet: 0 - Pass this time
+History: [0, 1, 1, 0, 0, 1, 0]
+Array Bet: [1.6, 0.2, 0.4, 0.2, 0.2]
+Last payout: 1.72
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 3.68
+Profit: 21.332000
+__________________
+Time running: 107:23
+Bet total: 252 - Bet: 112
+__________________
+
+History: [1, 1, 0, 0, 1, 0, 1]
+Array Bet: [1.6, 0.2, 0.8, 0.2, 0.2]
+Last payout: 3.68
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 4.96
+Profit: 21.272000
+__________________
+Time running: 108:0
+Bet total: 253 - Bet: 113
+__________________
+
+History: [1, 0, 0, 1, 0, 1, 1]
+Array Bet: [1.6, 0.2, 0.8, 0.2, 0.4]
+Last payout: 4.96
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 7.00
+Profit: 21.152000
+__________________
+Time running: 109:43
+Bet total: 254 - Bet: 114
+__________________
+
+History: [0, 0, 1, 0, 1, 1, 1]
+Array Bet: [1.6, 0.2, 0.8, 0.2, 0.8]
+Last payout: 7.0
+Bet: 0 - Pass this time
+History: [0, 1, 0, 1, 1, 1, 0]
+Array Bet: [1.6, 0.2, 0.8, 0.2, 0.8]
+Last payout: 1.23
+Bet: 0 - Pass this time
+History: [1, 0, 1, 1, 1, 0, 0]
+Array Bet: [1.6, 0.2, 0.8, 0.2, 0.8]
+Last payout: 1.01
+Bet: 0 - Pass this time
+History: [0, 1, 1, 1, 0, 0, 0]
+Array Bet: [1.6, 0.2, 0.8, 0.2, 0.8]
+Last payout: 1.09
+Bet: 0.8000 Payout at: 1.20
+Lose 0.416000 - Payout 1.17
+Profit: 20.736000
+__________________
+Time running: 110:31
+Bet total: 258 - Bet: 115
+__________________
+
+History: [1, 1, 1, 0, 0, 0, 0]
+Array Bet: [1.6, 0.2, 1.6, 0.2, 0.8]
+Last payout: 1.17
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 6.36
+Profit: 20.676000
+__________________
+Time running: 110:12
+Bet total: 259 - Bet: 116
+__________________
+
+History: [1, 1, 0, 0, 0, 0, 1]
+Array Bet: [1.6, 0.4, 1.6, 0.2, 0.8]
+Last payout: 6.36
+Bet: 0 - Pass this time
+History: [1, 0, 0, 0, 0, 1, 1]
+Array Bet: [1.6, 0.4, 1.6, 0.2, 0.8]
+Last payout: 2.98
+Bet: 0.4000 Payout at: 1.20
+Lose 0.208000 - Payout 1.04
+Profit: 20.468000
+__________________
+Time running: 111:51
+Bet total: 261 - Bet: 117
+__________________
+
+History: [0, 0, 0, 0, 1, 1, 0]
+Array Bet: [1.6, 0.8, 1.6, 0.2, 0.8]
+Last payout: 1.04
+Bet: 1.6000 Payout at: 1.20
+Lose 0.832000 - Payout 1.01
+Profit: 19.636000
+__________________
+Time running: 111:1
+Bet total: 262 - Bet: 118
+__________________
+
+History: [0, 0, 0, 1, 1, 0, 0]
+Array Bet: [3.2, 0.8, 1.6, 0.2, 0.8]
+Last payout: 1.01
+Bet: 0 - Pass this time
+History: [0, 0, 1, 1, 0, 0, 1]
+Array Bet: [3.2, 0.8, 1.6, 0.2, 0.8]
+Last payout: 2.24
+Bet: 0 - Pass this time
+History: [0, 1, 1, 0, 0, 1, 0]
+Array Bet: [3.2, 0.8, 1.6, 0.2, 0.8]
+Last payout: 1.47
+Bet: 0.8000 Payout at: 1.20
+Lose 0.240000 - Payout 3.65
+Profit: 19.396000
+__________________
+Time running: 112:13
+Bet total: 265 - Bet: 119
+__________________
+
+History: [1, 1, 0, 0, 1, 0, 1]
+Array Bet: [3.2, 0.8, 1.6, 0.2, 1.6]
+Last payout: 3.65
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 3.21
+Profit: 19.336000
+__________________
+Time running: 113:43
+Bet total: 266 - Bet: 120
+__________________
+
+History: [1, 0, 0, 1, 0, 1, 1]
+Array Bet: [3.2, 0.8, 1.6, 0.4, 1.6]
+Last payout: 3.21
+Bet: 3.2000 Payout at: 1.20
+Lose 1.664000 - Payout 1.00
+Profit: 17.672000
+__________________
+Time running: 113:53
+Bet total: 267 - Bet: 121
+__________________
+
+History: [0, 0, 1, 0, 1, 1, 0]
+Array Bet: [6.4, 0.8, 1.6, 0.4, 1.6]
+Last payout: 1.0
+Bet: 0 - Pass this time
+History: [0, 1, 0, 1, 1, 0, 1]
+Array Bet: [6.4, 0.8, 1.6, 0.4, 1.6]
+Last payout: 2.53
+Bet: 0.8000 Payout at: 1.20
+Lose 0.240000 - Payout 2.37
+Profit: 17.432000
+__________________
+Time running: 114:43
+Bet total: 269 - Bet: 122
+__________________
+
+History: [1, 0, 1, 1, 0, 1, 1]
+Array Bet: [6.4, 1.6, 1.6, 0.4, 1.6]
+Last payout: 2.37
+Bet: 6.4000 Payout at: 1.20
+Lose 1.920000 - Payout 26.35
+New max bet: 12.8000
+Profit: 15.512000
+__________________
+Time running: 115:48
+Bet total: 270 - Bet: 123
+__________________
+
+History: [0, 1, 1, 0, 1, 1, 2]
+Array Bet: [12.8, 1.6, 1.6, 0.4, 1.6]
+Last payout: 26.35
+Bet: 0 - Pass this time
+History: [1, 1, 0, 1, 1, 2, 0]
+Array Bet: [12.8, 1.6, 1.6, 0.4, 1.6]
+Last payout: 1.63
+Bet: 0 - Pass this time
+History: [1, 0, 1, 1, 2, 0, 1]
+Array Bet: [12.8, 1.6, 1.6, 0.4, 1.6]
+Last payout: 2.79
+Bet: 0 - Pass this time
+History: [0, 1, 1, 2, 0, 1, 1]
+Array Bet: [12.8, 1.6, 1.6, 0.4, 1.6]
+Last payout: 8.28
+Bet: 1.6000 Payout at: 1.20
+Lose 0.832000 - Payout 1.12
+Profit: 14.680000
+__________________
+Time running: 117:31
+Bet total: 274 - Bet: 124
+__________________
+
+History: [1, 1, 2, 0, 1, 1, 0]
+Array Bet: [12.8, 1.6, 3.2, 0.4, 1.6]
+Last payout: 1.12
+Bet: 0 - Pass this time
+History: [1, 2, 0, 1, 1, 0, 0]
+Array Bet: [12.8, 1.6, 3.2, 0.4, 1.6]
+Last payout: 1.2
+Bet: 0 - Pass this time
+History: [2, 0, 1, 1, 0, 0, 0]
+Array Bet: [12.8, 1.6, 3.2, 0.4, 1.6]
+Last payout: 1.58
+Bet: 1.6000 Payout at: 1.20
+Lose 0.480000 - Payout 4.40
+Profit: 14.200000
+__________________
+Time running: 118:50
+Bet total: 277 - Bet: 125
+__________________
+
+History: [0, 1, 1, 0, 0, 0, 1]
+Array Bet: [12.8, 3.2, 3.2, 0.4, 1.6]
+Last payout: 4.4
+Bet: 3.2000 Payout at: 1.20
+Win 2.176000 payout 1.46
+Profit: 16.376000
+__________________
+Time running: 118:7
+Bet total: 278 - Bet: 126
+__________________
+
+History: [1, 1, 0, 0, 0, 1, 0]
+Array Bet: [12.8, 3.2, 0.2, 0.4, 1.6]
+Last payout: 1.46
+Bet: 1.6000 Payout at: 1.20
+Lose 0.832000 - Payout 1.14
+Profit: 15.544000
+__________________
+Time running: 118:19
+Bet total: 279 - Bet: 127
+__________________
+
+History: [1, 0, 0, 0, 1, 0, 0]
+Array Bet: [12.8, 3.2, 0.2, 0.4, 3.2]
+Last payout: 1.14
+Bet: 3.2000 Payout at: 1.20
+Lose 1.664000 - Payout 1.05
+Profit: 13.880000
+__________________
+Time running: 119:31
+Bet total: 280 - Bet: 128
+__________________
+
+History: [0, 0, 0, 1, 0, 0, 0]
+Array Bet: [12.8, 6.4, 0.2, 0.4, 3.2]
+Last payout: 1.05
+Bet: 6.4000 Payout at: 1.20
+Lose 1.920000 - Payout 3.83
+New max bet: 12.8000
+Profit: 11.960000
+__________________
+Time running: 119:3
+Bet total: 281 - Bet: 129
+__________________
+
+History: [0, 0, 1, 0, 0, 0, 1]
+Array Bet: [12.8, 12.8, 0.2, 0.4, 3.2]
+Last payout: 3.83
+Bet: 12.8000 Payout at: 1.20
+Win 8.704000 payout 1.41
+Profit: 20.664000
+__________________
+Time running: 119:19
+Bet total: 282 - Bet: 130
+__________________
+
+History: [0, 1, 0, 0, 0, 1, 0]
+Array Bet: [0.2, 12.8, 0.2, 0.4, 3.2]
+Last payout: 1.41
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.11
+Profit: 20.560000
+__________________
+Time running: 120:31
+Bet total: 283 - Bet: 131
+__________________
+
+History: [1, 0, 0, 0, 1, 0, 0]
+Array Bet: [0.4, 12.8, 0.2, 0.4, 3.2]
+Last payout: 1.11
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.78
+Profit: 20.832000
+__________________
+Time running: 120:50
+Bet total: 284 - Bet: 132
+__________________
+
+History: [0, 0, 0, 1, 0, 0, 0]
+Array Bet: [0.4, 12.8, 0.2, 0.2, 3.2]
+Last payout: 1.78
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 2.82
+Profit: 20.772000
+__________________
+Time running: 120:18
+Bet total: 285 - Bet: 133
+__________________
+
+History: [0, 0, 1, 0, 0, 0, 1]
+Array Bet: [0.4, 12.8, 0.4, 0.2, 3.2]
+Last payout: 2.82
+Bet: 12.8000 Payout at: 1.20
+Lose 6.656000 - Payout 1.12
+New max bet: 25.6000
+Profit: 14.116000
+__________________
+Time running: 121:30
+Bet total: 286 - Bet: 134
+__________________
+
+History: [0, 1, 0, 0, 0, 1, 0]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 1.12
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 5.79
+Profit: 14.056000
+__________________
+Time running: 121:9
+Bet total: 287 - Bet: 135
+__________________
+
+History: [1, 0, 0, 0, 1, 0, 1]
+Array Bet: [0.4, 25.6, 0.4, 0.4, 3.2]
+Last payout: 5.79
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.67
+Profit: 14.328000
+__________________
+Time running: 121:28
+Bet total: 288 - Bet: 136
+__________________
+
+History: [0, 0, 0, 1, 0, 1, 0]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 1.67
+Bet: 0 - Pass this time
+History: [0, 0, 1, 0, 1, 0, 0]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 1.03
+Bet: 0 - Pass this time
+History: [0, 1, 0, 1, 0, 0, 2]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 19.47
+Bet: 0 - Pass this time
+History: [1, 0, 1, 0, 0, 2, 0]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 1.95
+Bet: 0 - Pass this time
+History: [0, 1, 0, 0, 2, 0, 0]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 1.14
+Bet: 0 - Pass this time
+History: [1, 0, 0, 2, 0, 0, 1]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 2.07
+Bet: 0 - Pass this time
+History: [0, 0, 2, 0, 0, 1, 2]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 29.45
+Bet: 0 - Pass this time
+History: [0, 2, 0, 0, 1, 2, 0]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 1.0
+Bet: 0 - Pass this time
+History: [2, 0, 0, 1, 2, 0, 0]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 1.14
+Bet: 0 - Pass this time
+History: [0, 0, 1, 2, 0, 0, 1]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 2.56
+Bet: 0 - Pass this time
+History: [0, 1, 2, 0, 0, 1, 0]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 1.65
+Bet: 0 - Pass this time
+History: [1, 2, 0, 0, 1, 0, 0]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 1.02
+Bet: 0 - Pass this time
+History: [2, 0, 0, 1, 0, 0, 0]
+Array Bet: [0.4, 25.6, 0.4, 0.2, 3.2]
+Last payout: 1.4
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.73
+Profit: 14.600000
+__________________
+Time running: 127:34
+Bet total: 301 - Bet: 137
+__________________
+
+History: [0, 0, 1, 0, 0, 0, 0]
+Array Bet: [0.4, 25.6, 0.2, 0.2, 3.2]
+Last payout: 1.73
+Bet: 25.6000 Payout at: 1.20
+Win 17.408000 payout 1.26
+Profit: 32.008000
+__________________
+Time running: 127:49
+Bet total: 302 - Bet: 138
+__________________
+
+History: [0, 1, 0, 0, 0, 0, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.2, 3.2]
+Last payout: 1.26
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 11.40
+Profit: 31.948000
+__________________
+Time running: 128:40
+Bet total: 303 - Bet: 139
+__________________
+
+History: [1, 0, 0, 0, 0, 0, 2]
+Array Bet: [0.4, 0.2, 0.4, 0.2, 3.2]
+Last payout: 11.4
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 0, 2, 0]
+Array Bet: [0.4, 0.2, 0.4, 0.2, 3.2]
+Last payout: 1.77
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 2, 0, 1]
+Array Bet: [0.4, 0.2, 0.4, 0.2, 3.2]
+Last payout: 7.4
+Bet: 0 - Pass this time
+History: [0, 0, 0, 2, 0, 1, 0]
+Array Bet: [0.4, 0.2, 0.4, 0.2, 3.2]
+Last payout: 1.16
+Bet: 0 - Pass this time
+History: [0, 0, 2, 0, 1, 0, 0]
+Array Bet: [0.4, 0.2, 0.4, 0.2, 3.2]
+Last payout: 1.41
+Bet: 0 - Pass this time
+History: [0, 2, 0, 1, 0, 0, 2]
+Array Bet: [0.4, 0.2, 0.4, 0.2, 3.2]
+Last payout: 10.48
+Bet: 0 - Pass this time
+History: [2, 0, 1, 0, 0, 2, 1]
+Array Bet: [0.4, 0.2, 0.4, 0.2, 3.2]
+Last payout: 4.41
+Bet: 0 - Pass this time
+History: [0, 1, 0, 0, 2, 1, 1]
+Array Bet: [0.4, 0.2, 0.4, 0.2, 3.2]
+Last payout: 2.98
+Bet: 0 - Pass this time
+History: [1, 0, 0, 2, 1, 1, 0]
+Array Bet: [0.4, 0.2, 0.4, 0.2, 3.2]
+Last payout: 1.08
+Bet: 0 - Pass this time
+History: [0, 0, 2, 1, 1, 0, 1]
+Array Bet: [0.4, 0.2, 0.4, 0.2, 3.2]
+Last payout: 2.18
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 10.85
+Profit: 31.888000
+__________________
+Time running: 132:29
+Bet total: 313 - Bet: 140
+__________________
+
+History: [0, 2, 1, 1, 0, 1, 2]
+Array Bet: [0.4, 0.2, 0.4, 0.4, 3.2]
+Last payout: 10.85
+Bet: 0 - Pass this time
+History: [2, 1, 1, 0, 1, 2, 2]
+Array Bet: [0.4, 0.2, 0.4, 0.4, 3.2]
+Last payout: 17.13
+Bet: 0 - Pass this time
+History: [1, 1, 0, 1, 2, 2, 0]
+Array Bet: [0.4, 0.2, 0.4, 0.4, 3.2]
+Last payout: 1.19
+Bet: 0 - Pass this time
+History: [1, 0, 1, 2, 2, 0, 0]
+Array Bet: [0.4, 0.2, 0.4, 0.4, 3.2]
+Last payout: 1.47
+Bet: 0 - Pass this time
+History: [0, 1, 2, 2, 0, 0, 2]
+Array Bet: [0.4, 0.2, 0.4, 0.4, 3.2]
+Last payout: 12.21
+Bet: 0 - Pass this time
+History: [1, 2, 2, 0, 0, 2, 1]
+Array Bet: [0.4, 0.2, 0.4, 0.4, 3.2]
+Last payout: 2.42
+Bet: 0 - Pass this time
+History: [2, 2, 0, 0, 2, 1, 0]
+Array Bet: [0.4, 0.2, 0.4, 0.4, 3.2]
+Last payout: 1.42
+Bet: 0 - Pass this time
+History: [2, 0, 0, 2, 1, 0, 0]
+Array Bet: [0.4, 0.2, 0.4, 0.4, 3.2]
+Last payout: 1.13
+Bet: 0 - Pass this time
+History: [0, 0, 2, 1, 0, 0, 1]
+Array Bet: [0.4, 0.2, 0.4, 0.4, 3.2]
+Last payout: 4.27
+Bet: 0 - Pass this time
+History: [0, 2, 1, 0, 0, 1, 0]
+Array Bet: [0.4, 0.2, 0.4, 0.4, 3.2]
+Last payout: 1.8
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.59
+Profit: 32.160000
+__________________
+Time running: 137:53
+Bet total: 323 - Bet: 141
+__________________
+
+History: [2, 1, 0, 0, 1, 0, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 3.2]
+Last payout: 1.59
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 0, 0, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 3.2]
+Last payout: 1.16
+Bet: 3.2000 Payout at: 1.20
+Lose 0.960000 - Payout 2.16
+Profit: 31.200000
+__________________
+Time running: 137:28
+Bet total: 325 - Bet: 142
+__________________
+
+History: [0, 0, 1, 0, 0, 0, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 6.4]
+Last payout: 2.16
+Bet: 6.4000 Payout at: 1.20
+Lose 1.920000 - Payout 2.05
+Profit: 29.280000
+__________________
+Time running: 138:50
+Bet total: 326 - Bet: 143
+__________________
+
+History: [0, 1, 0, 0, 0, 1, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 12.8]
+Last payout: 2.05
+Bet: 12.8000 Payout at: 1.20
+Lose 3.840000 - Payout 2.79
+New max bet: 25.6000
+Profit: 25.440000
+__________________
+Time running: 138:17
+Bet total: 327 - Bet: 144
+__________________
+
+History: [1, 0, 0, 0, 1, 1, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 25.6]
+Last payout: 2.79
+Bet: 25.6000 Payout at: 1.20
+Lose 7.680000 - Payout 12.85
+New max bet: 51.2000
+Profit: 17.760000
+__________________
+Time running: 139:10
+Bet total: 328 - Bet: 145
+__________________
+
+History: [0, 0, 0, 1, 1, 1, 2]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 12.85
+Bet: 0 - Pass this time
+History: [0, 0, 1, 1, 1, 2, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 1.0
+Bet: 0 - Pass this time
+History: [0, 1, 1, 1, 2, 0, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 4.63
+Bet: 0 - Pass this time
+History: [1, 1, 1, 2, 0, 1, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 1.95
+Bet: 0 - Pass this time
+History: [1, 1, 2, 0, 1, 0, 2]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 266.42
+Bet: 0 - Pass this time
+History: [1, 2, 0, 1, 0, 2, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 1.12
+Bet: 0 - Pass this time
+History: [2, 0, 1, 0, 2, 0, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 1.03
+Bet: 0 - Pass this time
+History: [0, 1, 0, 2, 0, 0, 2]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 28.12
+Bet: 0 - Pass this time
+History: [1, 0, 2, 0, 0, 2, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 3.33
+Bet: 0 - Pass this time
+History: [0, 2, 0, 0, 2, 1, 2]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 12.88
+Bet: 0 - Pass this time
+History: [2, 0, 0, 2, 1, 2, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 3.98
+Bet: 0 - Pass this time
+History: [0, 0, 2, 1, 2, 1, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 4.24
+Bet: 0 - Pass this time
+History: [0, 2, 1, 2, 1, 1, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 1.29
+Bet: 0 - Pass this time
+History: [2, 1, 2, 1, 1, 0, 2]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 10.45
+Bet: 0 - Pass this time
+History: [1, 2, 1, 1, 0, 2, 2]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 114.18
+Bet: 0 - Pass this time
+History: [2, 1, 1, 0, 2, 2, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 1.44
+Bet: 0 - Pass this time
+History: [1, 1, 0, 2, 2, 0, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 3.17
+Bet: 0 - Pass this time
+History: [1, 0, 2, 2, 0, 1, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 51.2]
+Last payout: 3.93
+Bet: 51.2000 Payout at: 1.20
+Win 34.816000 payout 1.21
+Profit: 52.576000
+__________________
+Time running: 150:4
+Bet total: 346 - Bet: 146
+__________________
+
+History: [0, 2, 2, 0, 1, 1, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 0.2]
+Last payout: 1.21
+Bet: 0 - Pass this time
+History: [2, 2, 0, 1, 1, 0, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.4, 0.2]
+Last payout: 3.11
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 11.32
+Profit: 52.456000
+__________________
+Time running: 151:23
+Bet total: 348 - Bet: 147
+__________________
+
+History: [2, 0, 1, 1, 0, 1, 2]
+Array Bet: [0.4, 0.2, 0.2, 0.8, 0.2]
+Last payout: 11.32
+Bet: 0 - Pass this time
+History: [0, 1, 1, 0, 1, 2, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.8, 0.2]
+Last payout: 1.45
+Bet: 0 - Pass this time
+History: [1, 1, 0, 1, 2, 0, 2]
+Array Bet: [0.4, 0.2, 0.2, 0.8, 0.2]
+Last payout: 39.8
+Bet: 0 - Pass this time
+History: [1, 0, 1, 2, 0, 2, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.8, 0.2]
+Last payout: 3.62
+Bet: 0 - Pass this time
+History: [0, 1, 2, 0, 2, 1, 2]
+Array Bet: [0.4, 0.2, 0.2, 0.8, 0.2]
+Last payout: 12.19
+Bet: 0 - Pass this time
+History: [1, 2, 0, 2, 1, 2, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.8, 0.2]
+Last payout: 4.95
+Bet: 0 - Pass this time
+History: [2, 0, 2, 1, 2, 1, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.8, 0.2]
+Last payout: 1.04
+Bet: 0 - Pass this time
+History: [0, 2, 1, 2, 1, 0, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.8, 0.2]
+Last payout: 1.05
+Bet: 0 - Pass this time
+History: [2, 1, 2, 1, 0, 0, 2]
+Array Bet: [0.4, 0.2, 0.2, 0.8, 0.2]
+Last payout: 17.13
+Bet: 0 - Pass this time
+History: [1, 2, 1, 0, 0, 2, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.8, 0.2]
+Last payout: 3.56
+Bet: 0 - Pass this time
+History: [2, 1, 0, 0, 2, 1, 0]
+Array Bet: [0.4, 0.2, 0.2, 0.8, 0.2]
+Last payout: 1.9
+Bet: 0 - Pass this time
+History: [1, 0, 0, 2, 1, 0, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.8, 0.2]
+Last payout: 2.27
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 2.34
+Profit: 52.396000
+__________________
+Time running: 158:51
+Bet total: 360 - Bet: 148
+__________________
+
+History: [0, 0, 2, 1, 0, 1, 1]
+Array Bet: [0.4, 0.2, 0.2, 0.8, 0.4]
+Last payout: 2.34
+Bet: 0.8000 Payout at: 1.20
+Lose 0.240000 - Payout 3.81
+Profit: 52.156000
+__________________
+Time running: 158:23
+Bet total: 361 - Bet: 149
+__________________
+
+History: [0, 2, 1, 0, 1, 1, 1]
+Array Bet: [0.4, 0.2, 0.2, 1.6, 0.4]
+Last payout: 3.81
+Bet: 0 - Pass this time
+History: [2, 1, 0, 1, 1, 1, 1]
+Array Bet: [0.4, 0.2, 0.2, 1.6, 0.4]
+Last payout: 2.1
+Bet: 0 - Pass this time
+History: [1, 0, 1, 1, 1, 1, 0]
+Array Bet: [0.4, 0.2, 0.2, 1.6, 0.4]
+Last payout: 1.4
+Bet: 0 - Pass this time
+History: [0, 1, 1, 1, 1, 0, 0]
+Array Bet: [0.4, 0.2, 0.2, 1.6, 0.4]
+Last payout: 1.53
+Bet: 0 - Pass this time
+History: [1, 1, 1, 1, 0, 0, 1]
+Array Bet: [0.4, 0.2, 0.2, 1.6, 0.4]
+Last payout: 3.23
+Bet: 0 - Pass this time
+History: [1, 1, 1, 0, 0, 1, 1]
+Array Bet: [0.4, 0.2, 0.2, 1.6, 0.4]
+Last payout: 3.62
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 7.75
+Profit: 52.036000
+__________________
+Time running: 161:4
+Bet total: 367 - Bet: 150
+__________________
+
+History: [1, 1, 0, 0, 1, 1, 1]
+Array Bet: [0.8, 0.2, 0.2, 1.6, 0.4]
+Last payout: 7.75
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 1, 1, 0]
+Array Bet: [0.8, 0.2, 0.2, 1.6, 0.4]
+Last payout: 1.0
+Bet: 0 - Pass this time
+History: [0, 0, 1, 1, 1, 0, 1]
+Array Bet: [0.8, 0.2, 0.2, 1.6, 0.4]
+Last payout: 3.66
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.05
+Profit: 51.932000
+__________________
+Time running: 162:57
+Bet total: 370 - Bet: 151
+__________________
+
+History: [0, 1, 1, 1, 0, 1, 0]
+Array Bet: [0.8, 0.4, 0.2, 1.6, 0.4]
+Last payout: 1.05
+Bet: 0 - Pass this time
+History: [1, 1, 1, 0, 1, 0, 1]
+Array Bet: [0.8, 0.4, 0.2, 1.6, 0.4]
+Last payout: 7.19
+Bet: 1.6000 Payout at: 1.20
+Lose 0.480000 - Payout 2.04
+Profit: 51.452000
+__________________
+Time running: 163:2
+Bet total: 372 - Bet: 152
+__________________
+
+History: [1, 1, 0, 1, 0, 1, 1]
+Array Bet: [0.8, 0.4, 0.2, 3.2, 0.4]
+Last payout: 2.04
+Bet: 0.4000 Payout at: 1.20
+Lose 0.208000 - Payout 1.15
+Profit: 51.244000
+__________________
+Time running: 163:15
+Bet total: 373 - Bet: 153
+__________________
+
+History: [1, 0, 1, 0, 1, 1, 0]
+Array Bet: [0.8, 0.4, 0.2, 3.2, 0.8]
+Last payout: 1.15
+Bet: 0 - Pass this time
+History: [0, 1, 0, 1, 1, 0, 1]
+Array Bet: [0.8, 0.4, 0.2, 3.2, 0.8]
+Last payout: 3.02
+Bet: 0.8000 Payout at: 1.20
+Lose 0.240000 - Payout 4.84
+Profit: 51.004000
+__________________
+Time running: 164:20
+Bet total: 375 - Bet: 154
+__________________
+
+History: [1, 0, 1, 1, 0, 1, 1]
+Array Bet: [1.6, 0.4, 0.2, 3.2, 0.8]
+Last payout: 4.84
+Bet: 3.2000 Payout at: 1.20
+Win 2.176000 payout 1.80
+Profit: 53.180000
+__________________
+Time running: 165:40
+Bet total: 376 - Bet: 155
+__________________
+
+History: [0, 1, 1, 0, 1, 1, 0]
+Array Bet: [1.6, 0.4, 0.2, 0.2, 0.8]
+Last payout: 1.8
+Bet: 0 - Pass this time
+History: [1, 1, 0, 1, 1, 0, 1]
+Array Bet: [1.6, 0.4, 0.2, 0.2, 0.8]
+Last payout: 2.45
+Bet: 0.4000 Payout at: 1.20
+Lose 0.120000 - Payout 2.90
+Profit: 53.060000
+__________________
+Time running: 166:33
+Bet total: 378 - Bet: 156
+__________________
+
+History: [1, 0, 1, 1, 0, 1, 1]
+Array Bet: [1.6, 0.8, 0.2, 0.2, 0.8]
+Last payout: 2.9
+Bet: 0.8000 Payout at: 1.20
+Lose 0.240000 - Payout 3.78
+Profit: 52.820000
+__________________
+Time running: 166:5
+Bet total: 379 - Bet: 157
+__________________
+
+History: [0, 1, 1, 0, 1, 1, 1]
+Array Bet: [1.6, 1.6, 0.2, 0.2, 0.8]
+Last payout: 3.78
+Bet: 0 - Pass this time
+History: [1, 1, 0, 1, 1, 1, 0]
+Array Bet: [1.6, 1.6, 0.2, 0.2, 0.8]
+Last payout: 1.19
+Bet: 0 - Pass this time
+History: [1, 0, 1, 1, 1, 0, 0]
+Array Bet: [1.6, 1.6, 0.2, 0.2, 0.8]
+Last payout: 1.02
+Bet: 0 - Pass this time
+History: [0, 1, 1, 1, 0, 0, 0]
+Array Bet: [1.6, 1.6, 0.2, 0.2, 0.8]
+Last payout: 1.36
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.04
+Profit: 52.716000
+__________________
+Time running: 167:55
+Bet total: 383 - Bet: 158
+__________________
+
+History: [1, 1, 1, 0, 0, 0, 0]
+Array Bet: [1.6, 1.6, 0.4, 0.2, 0.8]
+Last payout: 1.04
+Bet: 0.8000 Payout at: 1.20
+Lose 0.416000 - Payout 1.09
+Profit: 52.300000
+__________________
+Time running: 167:7
+Bet total: 384 - Bet: 159
+__________________
+
+History: [1, 1, 0, 0, 0, 0, 0]
+Array Bet: [1.6, 1.6, 0.4, 0.2, 1.6]
+Last payout: 1.09
+Bet: 1.6000 Payout at: 1.20
+Lose 0.832000 - Payout 1.11
+Profit: 51.468000
+__________________
+Time running: 167:19
+Bet total: 385 - Bet: 160
+__________________
+
+History: [1, 0, 0, 0, 0, 0, 0]
+Array Bet: [3.2, 1.6, 0.4, 0.2, 1.6]
+Last payout: 1.11
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.10
+Profit: 51.364000
+__________________
+Time running: 168:31
+Bet total: 386 - Bet: 161
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 0]
+Array Bet: [3.2, 1.6, 0.4, 0.4, 1.6]
+Last payout: 1.1
+Bet: 1.6000 Payout at: 1.20
+Lose 0.480000 - Payout 2.58
+Profit: 50.884000
+__________________
+Time running: 168:57
+Bet total: 387 - Bet: 162
+__________________
+
+History: [0, 0, 0, 0, 0, 0, 1]
+Array Bet: [3.2, 3.2, 0.4, 0.4, 1.6]
+Last payout: 2.58
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 0, 1, 0]
+Array Bet: [3.2, 3.2, 0.4, 0.4, 1.6]
+Last payout: 1.57
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 1, 0, 0]
+Array Bet: [3.2, 3.2, 0.4, 0.4, 1.6]
+Last payout: 1.1
+Bet: 0 - Pass this time
+History: [0, 0, 0, 1, 0, 0, 0]
+Array Bet: [3.2, 3.2, 0.4, 0.4, 1.6]
+Last payout: 1.77
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.98
+Profit: 51.156000
+__________________
+Time running: 169:7
+Bet total: 391 - Bet: 163
+__________________
+
+History: [0, 0, 1, 0, 0, 0, 0]
+Array Bet: [3.2, 3.2, 0.2, 0.4, 1.6]
+Last payout: 1.98
+Bet: 3.2000 Payout at: 1.20
+Lose 0.960000 - Payout 2.81
+Profit: 50.196000
+__________________
+Time running: 170:35
+Bet total: 392 - Bet: 164
+__________________
+
+History: [0, 1, 0, 0, 0, 0, 1]
+Array Bet: [6.4, 3.2, 0.2, 0.4, 1.6]
+Last payout: 2.81
+Bet: 0 - Pass this time
+History: [1, 0, 0, 0, 0, 1, 0]
+Array Bet: [6.4, 3.2, 0.2, 0.4, 1.6]
+Last payout: 1.8
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 1, 0, 2]
+Array Bet: [6.4, 3.2, 0.2, 0.4, 1.6]
+Last payout: 70.56
+Bet: 0 - Pass this time
+History: [0, 0, 0, 1, 0, 2, 2]
+Array Bet: [6.4, 3.2, 0.2, 0.4, 1.6]
+Last payout: 80.78
+Bet: 0 - Pass this time
+History: [0, 0, 1, 0, 2, 2, 1]
+Array Bet: [6.4, 3.2, 0.2, 0.4, 1.6]
+Last payout: 2.17
+Bet: 0 - Pass this time
+History: [0, 1, 0, 2, 2, 1, 1]
+Array Bet: [6.4, 3.2, 0.2, 0.4, 1.6]
+Last payout: 3.52
+Bet: 0 - Pass this time
+History: [1, 0, 2, 2, 1, 1, 1]
+Array Bet: [6.4, 3.2, 0.2, 0.4, 1.6]
+Last payout: 3.04
+Bet: 0 - Pass this time
+History: [0, 2, 2, 1, 1, 1, 0]
+Array Bet: [6.4, 3.2, 0.2, 0.4, 1.6]
+Last payout: 1.29
+Bet: 0 - Pass this time
+History: [2, 2, 1, 1, 1, 0, 0]
+Array Bet: [6.4, 3.2, 0.2, 0.4, 1.6]
+Last payout: 1.16
+Bet: 0 - Pass this time
+History: [2, 1, 1, 1, 0, 0, 1]
+Array Bet: [6.4, 3.2, 0.2, 0.4, 1.6]
+Last payout: 5.47
+Bet: 0 - Pass this time
+History: [1, 1, 1, 0, 0, 1, 0]
+Array Bet: [6.4, 3.2, 0.2, 0.4, 1.6]
+Last payout: 1.88
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 10.09
+Profit: 50.136000
+__________________
+Time running: 176:17
+Bet total: 403 - Bet: 165
+__________________
+
+History: [1, 1, 0, 0, 1, 0, 2]
+Array Bet: [6.4, 3.2, 0.4, 0.4, 1.6]
+Last payout: 10.09
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 0, 2, 1]
+Array Bet: [6.4, 3.2, 0.4, 0.4, 1.6]
+Last payout: 3.1
+Bet: 0 - Pass this time
+History: [0, 0, 1, 0, 2, 1, 1]
+Array Bet: [6.4, 3.2, 0.4, 0.4, 1.6]
+Last payout: 3.59
+Bet: 0 - Pass this time
+History: [0, 1, 0, 2, 1, 1, 1]
+Array Bet: [6.4, 3.2, 0.4, 0.4, 1.6]
+Last payout: 6.76
+Bet: 0 - Pass this time
+History: [1, 0, 2, 1, 1, 1, 0]
+Array Bet: [6.4, 3.2, 0.4, 0.4, 1.6]
+Last payout: 1.38
+Bet: 0 - Pass this time
+History: [0, 2, 1, 1, 1, 0, 0]
+Array Bet: [6.4, 3.2, 0.4, 0.4, 1.6]
+Last payout: 1.79
+Bet: 0 - Pass this time
+History: [2, 1, 1, 1, 0, 0, 1]
+Array Bet: [6.4, 3.2, 0.4, 0.4, 1.6]
+Last payout: 3.71
+Bet: 0 - Pass this time
+History: [1, 1, 1, 0, 0, 1, 0]
+Array Bet: [6.4, 3.2, 0.4, 0.4, 1.6]
+Last payout: 1.32
+Bet: 3.2000 Payout at: 1.20
+Lose 1.664000 - Payout 1.18
+Profit: 48.472000
+__________________
+Time running: 180:36
+Bet total: 411 - Bet: 166
+__________________
+
+History: [1, 1, 0, 0, 1, 0, 0]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 1.6]
+Last payout: 1.18
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 0, 0, 1]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 1.6]
+Last payout: 5.19
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.61
+Profit: 48.744000
+__________________
+Time running: 181:32
+Bet total: 413 - Bet: 167
+__________________
+
+History: [0, 0, 1, 0, 0, 1, 0]
+Array Bet: [6.4, 6.4, 0.4, 0.2, 1.6]
+Last payout: 1.61
+Bet: 1.6000 Payout at: 1.20
+Win 1.088000 payout 1.32
+Profit: 49.832000
+__________________
+Time running: 181:46
+Bet total: 414 - Bet: 168
+__________________
+
+History: [0, 1, 0, 0, 1, 0, 0]
+Array Bet: [6.4, 6.4, 0.4, 0.2, 0.2]
+Last payout: 1.32
+Bet: 0 - Pass this time
+History: [1, 0, 0, 1, 0, 0, 2]
+Array Bet: [6.4, 6.4, 0.4, 0.2, 0.2]
+Last payout: 13.13
+Bet: 0 - Pass this time
+History: [0, 0, 1, 0, 0, 2, 0]
+Array Bet: [6.4, 6.4, 0.4, 0.2, 0.2]
+Last payout: 1.51
+Bet: 0 - Pass this time
+History: [0, 1, 0, 0, 2, 0, 0]
+Array Bet: [6.4, 6.4, 0.4, 0.2, 0.2]
+Last payout: 1.08
+Bet: 0 - Pass this time
+History: [1, 0, 0, 2, 0, 0, 2]
+Array Bet: [6.4, 6.4, 0.4, 0.2, 0.2]
+Last payout: 69.87
+Bet: 0 - Pass this time
+History: [0, 0, 2, 0, 0, 2, 1]
+Array Bet: [6.4, 6.4, 0.4, 0.2, 0.2]
+Last payout: 7.83
+Bet: 0 - Pass this time
+History: [0, 2, 0, 0, 2, 1, 0]
+Array Bet: [6.4, 6.4, 0.4, 0.2, 0.2]
+Last payout: 1.11
+Bet: 0 - Pass this time
+History: [2, 0, 0, 2, 1, 0, 2]
+Array Bet: [6.4, 6.4, 0.4, 0.2, 0.2]
+Last payout: 10.74
+Bet: 0 - Pass this time
+History: [0, 0, 2, 1, 0, 2, 0]
+Array Bet: [6.4, 6.4, 0.4, 0.2, 0.2]
+Last payout: 1.77
+Bet: 0 - Pass this time
+History: [0, 2, 1, 0, 2, 0, 1]
+Array Bet: [6.4, 6.4, 0.4, 0.2, 0.2]
+Last payout: 2.54
+Bet: 0 - Pass this time
+History: [2, 1, 0, 2, 0, 1, 1]
+Array Bet: [6.4, 6.4, 0.4, 0.2, 0.2]
+Last payout: 8.43
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 3.91
+Profit: 49.772000
+__________________
+Time running: 187:20
+Bet total: 425 - Bet: 169
+__________________
+
+History: [1, 0, 2, 0, 1, 1, 1]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 0.2]
+Last payout: 3.91
+Bet: 0 - Pass this time
+History: [0, 2, 0, 1, 1, 1, 1]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 0.2]
+Last payout: 4.17
+Bet: 0 - Pass this time
+History: [2, 0, 1, 1, 1, 1, 0]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 0.2]
+Last payout: 1.86
+Bet: 0 - Pass this time
+History: [0, 1, 1, 1, 1, 0, 2]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 0.2]
+Last payout: 58.22
+Bet: 0 - Pass this time
+History: [1, 1, 1, 1, 0, 2, 1]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 0.2]
+Last payout: 2.52
+Bet: 0 - Pass this time
+History: [1, 1, 1, 0, 2, 1, 1]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 0.2]
+Last payout: 4.33
+Bet: 0 - Pass this time
+History: [1, 1, 0, 2, 1, 1, 0]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 0.2]
+Last payout: 1.22
+Bet: 0 - Pass this time
+History: [1, 0, 2, 1, 1, 0, 1]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 0.2]
+Last payout: 4.28
+Bet: 0.4000 Payout at: 1.20
+Win 0.272000 payout 1.62
+Profit: 50.044000
+__________________
+Time running: 192:38
+Bet total: 433 - Bet: 170
+__________________
+
+History: [0, 2, 1, 1, 0, 1, 0]
+Array Bet: [6.4, 6.4, 0.2, 0.4, 0.2]
+Last payout: 1.62
+Bet: 0 - Pass this time
+History: [2, 1, 1, 0, 1, 0, 0]
+Array Bet: [6.4, 6.4, 0.2, 0.4, 0.2]
+Last payout: 1.92
+Bet: 0 - Pass this time
+History: [1, 1, 0, 1, 0, 0, 0]
+Array Bet: [6.4, 6.4, 0.2, 0.4, 0.2]
+Last payout: 1.34
+Bet: 0.2000 Payout at: 1.20
+Lose 0.104000 - Payout 1.12
+Profit: 49.940000
+__________________
+Time running: 192:27
+Bet total: 436 - Bet: 171
+__________________
+
+History: [1, 0, 1, 0, 0, 0, 0]
+Array Bet: [6.4, 6.4, 0.2, 0.4, 0.4]
+Last payout: 1.12
+Bet: 0.2000 Payout at: 1.20
+Lose 0.060000 - Payout 22.60
+Profit: 49.880000
+__________________
+Time running: 193:29
+Bet total: 437 - Bet: 172
+__________________
+
+History: [0, 1, 0, 0, 0, 0, 2]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 0.4]
+Last payout: 22.6
+Bet: 0 - Pass this time
+History: [1, 0, 0, 0, 0, 2, 1]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 0.4]
+Last payout: 4.0
+Bet: 0 - Pass this time
+History: [0, 0, 0, 0, 2, 1, 0]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 0.4]
+Last payout: 1.05
+Bet: 0 - Pass this time
+History: [0, 0, 0, 2, 1, 0, 1]
+Array Bet: [6.4, 6.4, 0.4, 0.4, 0.4]
+Last payout: 6.11
+Bet: 6.4000 Payout at: 1.20
+Lose 1.920000 - Payout 2.53
+Profit: 47.960000
+__________________
+Time running: 195:19
+Bet total: 441 - Bet: 173
+__________________
+
+History: [0, 0, 2, 1, 0, 1, 1]
+Array Bet: [12.8, 6.4, 0.4, 0.4, 0.4]
+Last payout: 2.53
+Can not Click
+Profit: 47.960000
+__________________
+Time running: 196:36
+Bet total: 442 - Bet: 174
+__________________
+
+Stop breaking__________________
+

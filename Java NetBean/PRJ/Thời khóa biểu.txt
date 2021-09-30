@@ -1,0 +1,6 @@
+Slot 1|CSD201||CSD201||CSD201||
+Slot 2|PRJ311||PRJ311|IAO101|PRJ311||
+Slot 3|LAB211|IAO101|LAB211|IAO101|LAB211||
+Slot 4|||||||
+Slot 5|||||||
+Slot 6|||||||
